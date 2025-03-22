@@ -483,13 +483,13 @@ $k18_pt850_half_diff = $k18_pt850_half - $k18_pt850_half_yd;
 			วันที่อัพเดตล่าสุด:&nbsp;&nbsp;<?php echo $price_update; ?>
 		</p>
 		<h4 class="titleH4">
-			ราคาอ้างอิงวันนี้สำหรับทองคำ 1 กรัม
+		ตรวจสอบราคาซื้ออ้างอิง
 		</h4>
 		<table>
 			<tbody>
 				<tr>
 					<th class="rateTable--gold" colspan="3">
-						ราคาอ้างอิงวันนี้สำหรับทองคำ 1 กรัม
+					ราคาอ้างอิงวันนี้สำหรับทองคำ 1 กรัม
 
 					</th>
 				</tr>

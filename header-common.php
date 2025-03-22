@@ -3,11 +3,11 @@
 	<div class="header__head">
 		<div class="logo__wrap">
 			<p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="おたからや"></a></p>
-			<h1 class="logo__text">ประเมินราคาและซื้อทองคำถึงสถานที่ฟรีที่ร้านค้ากว่า 1,200 แห่งทั่วประเทศ</h1>
+			<h1 class="logo__text">ประเมินราคารับซื้อทองคำฟรี และรับซื้อถึงที่จากร้านรับซื้อโดยตรงกว่า 1,200 สาขาทั่วประเทศ</h1>
 		</div>
 		<div class="tel__wrap">
 			<p class="tel__img"><img src="../images/common/header_tel.png" alt="0120-555-600"></p>
-			<p class="tel__text">เวลาทำการของแผนกต้อนรับ<br> (เปิดตลอดทั้งปี) <br class="is-pc">8:00〜21:00</p>
+			<p class="tel__text">เวลาทำการ<br> (ไม่มีวันหยุด) <br class="is-pc">8:00〜21:00</p>
 
 			<div class="ex_link_wrap_top">
 				<a href="https://privacymark.jp" target="_blank" rel="noopener noreferrer" class="ex_link_top">
@@ -39,10 +39,10 @@
 						<li class="btn__gy01--wrap"><a href="item.html">สินค้าพร้อมจำหน่าย</a></li>
 						<li class="btn__gy01--wrap"><a href="visiting.html">การจัดซื้อนอกสถานที่คืออะไร?</a></li>
 						<li class="btn__gy01--wrap"><a href="shop.html">ค้นหาร้านค้าใกล้บ้านคุณ</a></li> -->
-						<li class="btn__gy01--wrap"> <a href="/gold/">รับซื้อทองคำ/แท่ง</a> </li>
-						<li class="btn__gy01--wrap"> <a href="/watch/">ซื้อนาฬิกา</a> </li>
-						<li class="btn__gy01--wrap"> <a href="/brand/">รับซื้อกระเป๋าและผลิตภัณฑ์แบรนด์เนม</a> </li>
-						<li class="btn__gy01--wrap"> <a href="/jewelry/">รับซื้อเพชร/เครื่องประดับ</a> </li>
+						<li class="btn__gy01--wrap"> <a href="/gold/">รับซื้อทองคำแท่งและทองคำรูปพรรณ</a> </li>
+						<li class="btn__gy01--wrap"> <a href="/watch/">รับซื้อนาฬิกา</a> </li>
+						<li class="btn__gy01--wrap"> <a href="/brand/">รับซื้อกระเป๋าและสินค้าแบรนด์เนม</a> </li>
+						<li class="btn__gy01--wrap"> <a href="/jewelry/">รับซื้อเพชรและอัญมณี</a> </li>
 					</ul>
 				</div>
 

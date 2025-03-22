@@ -81,7 +81,7 @@
 			</li>
 			<li class="topic__path--item" itemprop="itemListElement" itemscope=""
 				itemtype="https://schema.org/ListItem">
-				<span itemprop="name">การซื้อนาฬิกา</span>
+				<span itemprop="name">การรับซื้อนาฬิกา</span>
 				<meta itemprop="position" content="2">
 			</li>
 		</ol>

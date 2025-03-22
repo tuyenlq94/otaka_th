@@ -12,7 +12,7 @@
         </div>
     </div>
     <div class="shop__detail--rateGraph">
-        <h3 class="titleSub is-pc">Gold Purchase Price Trend Graph</h3>
+        <h3 class="titleSub is-pc">กราฟแนวโน้มราคาซื้อทองคำ</h3>
         <p class="is-pc">
             หน้านี้จะแสดงกราฟราคาตลาดทองคำ (ต่อ 1 กรัม) ในแต่ละช่วงเวลา<br>
             นอกจากราคาตลาดในปัจจุบันแล้ว โปรดดูความเคลื่อนไหวในช่วง 6 เดือนหรือ 1 ปีด้วย

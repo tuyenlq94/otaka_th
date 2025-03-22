@@ -64,8 +64,8 @@
         </div>
         <div class="footer__foot2024">
             <div class="footer__foot2024--inner_under">
-                <p class="fo oter__foot--permit">ใบอนุญาตคณะกรรมการความปลอดภัยสาธารณะจังหวัดคานากาว่าหมายเลข 451380001308</p>
-                <p class="footer__foot2024--copyrigh">Copyright© <?php echo date("Y"); ?>　Otakaraya ร้านขายสินค้าเฉพาะทาง　All Rights Reserved.</p>
+                <p class="fo oter__foot--permit">ได้รับอนุญาตจากคณะกรรมการความปลอดภัยสาธารณะ จังหวัดคานางาวะ หมายเลข 451380001308</p>
+                <p class="footer__foot2024--copyrigh">Copyright© <?php echo date("Y"); ?>　ร้านรับซื้อโอทาคาระยะ　All Rights Reserved.</p>
             </div>
         </div>
     </footer>

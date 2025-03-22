@@ -50,37 +50,37 @@
 			<section class="products_area handling_products_section">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-					สินค้าที่ดูแลโดย <span>OTAKARAYA</span>
+					สินค้าที่โอทาคาระยะรับซื้อ
 					</h2>
 					<h3 class="titleMain--lead">
-						<p>Otakaraya จัดการผลิตภัณฑ์ที่หลากหลาย</p>
+						<p>โอทาคาระยะของเรารับซื้อสินค้าหลากหลายประเภท</p>
 					</h3>
 				</div>
 
 				<div class="products_area_content_wrap products_area_top_content_wrap">
 					<a href="/gold/">
 						<div class="products_area_top_content_img_wrap">
-							<img src="images/index/products_img1@2x.webp" alt="รับซื้อทองคำ/แท่ง">
+							<img src="images/index/products_img1@2x.webp" alt="รับซื้อทองคำแท่งและทองคำรูปพรรณ">
 						</div>
-						<p class="products_area_text">รับซื้อทองคำ/แท่ง</p>
+						<p class="products_area_text">รับซื้อทองคำแท่งและทองคำรูปพรรณ</p>
 					</a>
 					<a href="/jewelry/">
 						<div class="products_area_top_content_img_wrap">
-							<img src="images/index/products_img3@2x.webp" alt="รับซื้อเพชร/เครื่องประดับ">
+							<img src="images/index/products_img3@2x.webp" alt="รับซื้อเพชรและอัญมณี">
 						</div>
-						<p class="products_area_text">รับซื้อเพชร/เครื่องประดับ</p>
+						<p class="products_area_text">รับซื้อเพชรและอัญมณี</p>
 					</a>
 					<a href="/brand/">
 						<div class="products_area_top_content_img_wrap">
-							<img src="images/index/products_img4@2x.webp" alt="รับซื้อกระเป๋าและผลิตภัณฑ์แบรนด์เนม">
+							<img src="images/index/products_img4@2x.webp" alt="รับซื้อกระเป๋าและสินค้าแบรนด์เนม">
 						</div>
-						<p class="products_area_text">รับซื้อกระเป๋าและผลิตภัณฑ์แบรนด์เนม</p>
+						<p class="products_area_text">รับซื้อกระเป๋าและสินค้าแบรนด์เนม</p>
 					</a>
 					<a href="/watch/">
 						<div class="products_area_top_content_img_wrap">
-							<img src="images/index/products_img5@2x.webp" alt="ซื้อนาฬิกา">
+							<img src="images/index/products_img5@2x.webp" alt="รับซื้อนาฬิกา">
 						</div>
-						<p class="products_area_text">ซื้อนาฬิกา</p>
+						<p class="products_area_text">รับซื้อนาฬิกา</p>
 					</a>
 			</section>
 			<!-- おたからやの取り扱い商品 -->
@@ -90,10 +90,10 @@
 			<section class="products_area handling_brand_section">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-					แบรนด์การจัดการของ  <span> Otakaraya</span>
+					แบรนด์ที่โอทาคาระยะรับซื้อ
 					</h2>
 					<h3 class="titleMain--lead">
-						<p>Otakaraya จัดการสินค้าหลากหลายยี่ห้อ ที่นี่เราจะแนะนำบางส่วนของพวกเขา</p>
+						<p>โอทาคาระยะรับซื้อสินค้าจากแบรนด์ต่างๆ มากมาย อ่านรายละเอียดแบรนด์ที่รับซื้อได้ที่นี่</p>
 					</h3>
 				</div>
 
@@ -148,21 +148,21 @@
 					</a>
 					<a href="/brand/louis-vuitton/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img9@4x.webp" alt="ซื้อ Louis Vuitton">
+							<img src="images/index/handling_brand_img9@4x.webp" alt=" รับซื้อ Louis Vuitton">
 						</div>
-						<p class="products_area_text">ซื้อ Louis Vuitton</p>
+						<p class="products_area_text"> รับซื้อ Louis Vuitton</p>
 					</a>
 					<a href="/brand/hermes/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img10@4x.webp" alt="ซื้อ Hermes">
+							<img src="images/index/handling_brand_img10@4x.webp" alt="รับซื้อ Hermès">
 						</div>
-						<p class="products_area_text">ซื้อ Hermes</p>
+						<p class="products_area_text">รับซื้อ Hermès</p>
 					</a>
 					<a href="/brand/chanel/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img11@4x.webp" alt="ซื้อ Chanel">
+							<img src="images/index/handling_brand_img11@4x.webp" alt="รับซื้อ Chanel">
 						</div>
-						<p class="products_area_text">ซื้อ Chanel</p>
+						<p class="products_area_text">รับซื้อ Chanel</p>
 					</a>
 					<a href="/brand/dior/">
 						<div class="products_area_img_wrap">
@@ -184,9 +184,9 @@
 					</a>
 					<a href="/brand/gucci/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img15@4x.webp" alt="Gucci การซื้อ">
+							<img src="images/index/handling_brand_img15@4x.webp" alt="รับซื้อ Gucci">
 						</div>
-						<p class="products_area_text">Gucci การซื้อ</p>
+						<p class="products_area_text">รับซื้อ Gucci</p>
 					</a>
 				</div>
 			</section>
@@ -216,8 +216,7 @@
 			<section class="csr_section">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-						ความคิดริเริ่มในกิจกรรมท้องถิ่นและสังคม
-					</h2>
+						กิจกรรมที่ทำร่วมกับชุมชนและสังคม					</h2>
 				</div>
 				<div class="csr_section_content">
 					<img class="is-pc head_img" src="images/index/E-fran_Children's_Cafeteria_PC.webp">
@@ -225,38 +224,56 @@
 
 					<div class="dining_room_area">
 						<div class="dining_room_area_ttl">
-							<p>การสนับสนุนด้านอาหารโดยโรงอาหารเด็ก Ifran</p>
+							<p>สนับสนุนอาหารผ่านโรงอาหารเด็กอีฟราน</p>
 						</div>
 						<div class="dining_room_area_read">
-							<p>Ifran Children's Shokudo เป็นกิจกรรมสนับสนุนที่แจกจ่ายอาหารที่มีคุณค่าทางโภชนาการและกล่องเบนโตะให้กับเด็กๆ สัปดาห์ละสองครั้งในญี่ปุ่น (150 มื้อต่อสัปดาห์) และสัปดาห์ละครั้ง (100 มื้อ) ในฟิลิปปินส์</p>
+							<p>โรงอาหารเด็กอีฟรานนั้นจะทำการแจกจ่ายอาหารและข้าวกล่องที่มีประโยชน์ให้กับเด็กๆ ในประเทศญี่ปุ่นสัปดาห์ละ 2 ครั้ง (กว่า 150 มื้อในทุกสัปดาห์)
+ รวมถึงแจกจ่ายให้เด็กๆ ในประเทศฟิลิปปินส์สัปดาห์ละ 1 ครั้ง (100 มื้อ)</p>
 						</div>
 
 						<div class="dining_room_img_area">
 							<div class="dining_room_img_area_wrap dining_room_img_area_wrap1">
-								<img src="images/index/top_page_link_menu4.webp" alt="กิจกรรมการจัดจำหน่ายในประเทศฟิลิปปินส์">
-								<p class="dining_room_img_area_ttl">กิจกรรมการจัดจำหน่ายในประเทศฟิลิปปินส์</p>
+								<img src="images/index/top_page_link_menu4.webp" alt="กิจกรรมการแจกจ่ายอาหารในฟิลิปปินส์">
+								<p class="dining_room_img_area_ttl">กิจกรรมการแจกจ่ายอาหารในฟิลิปปินส์</p>
 								<p class="dining_room_img_area_text">
-								ในฟิลิปปินส์ เด็กส่วนใหญ่ที่เกิดในครอบครัวที่ยากจนถูกบังคับให้ต้องอยู่อย่างยากจนไปตลอดชีวิต.
-								พวกเขาอาจถูกจัดให้อยู่ในสถานเลี้ยงเด็กกำพร้าหรืออาจต้องใช้ชีวิตเป็นเด็กเร่ร่อนต่อไปเพื่อเลี้ยงดูครอบครัวในแต่ละวัน ทั้งนี้ขึ้นอยู่กับสถานการณ์ครอบครัวของพวกเขาเราแจกจ่ายอาหารโฮมเมดที่มีคุณค่าทางโภชนาการซึ่งเติมพลังให้กับจิตใจและร่างกายให้กับเด็กประมาณ 100 คนที่อาศัยอยู่อย่างยากจนบนเกาะเซบูในประเทศฟิลิปปินส์สัปดาห์ละครั้ง</p>
+								ในฟิลิปปินส์ เด็กส่วนใหญ่ที่เกิดในครอบครัวยากจน จะต้องอยู่อย่างยากจนแบบนั้นไปตลอดชีวิตอย่างเลี่ยงไม่ได้.
+								เด็กๆ จะถูกฝากไว้กับสถานรับเลี้ยงเด็กกำพร้า หรืออาจต้องกลายเป็นเด็กเร่ร่อน
+ เพื่อช่วยครอบครัวหาเลี้ยงชีพไปวันๆ ขึ้นอยู่กับสถานการณ์ของแต่ละครอบครัว
+ เราแจกจ่ายอาหารโฮมเมดที่มีประโยชน์ต่อทั้งร่างกายและจิตใจให้กับเหล่าเด็กยากจนราว 100 คน
+ ที่อาศัยอยู่ในเกาะเซบู ประเทศฟิลิปปินส์ สัปดาห์ละ 1 ครั้ง
+								</p>
 							</div>
 							<div class="dining_room_img_area_wrap dining_room_img_area_wrap2">
-								<img src="images/index/top_page_link_menu5.webp" alt="กิจกรรมการจัดจำหน่ายในประเทศญี่ปุ่น">
-								<p class="dining_room_img_area_ttl">กิจกรรมการจัดจำหน่ายในประเทศญี่ปุ่น</p>
-								<p class="dining_room_img_area_text">ส่วนใหญ่ในเมืองโยโกฮาม่า จังหวัดคานากาว่า "ย่านช้อปปิ้งโยโกฮามาบาชิ โดริ บาคาอุมะ โชคุโด" "พื้นที่สร้างสรรค์ชีวิต (กล้าบีโตนิชิ)" "โซโตะเซน อาโอกิยามะ ฮงคาคุจิ" "บริการหลังเลิกเรียน/ฟูเรไอพลาซ่า" เราแจกจ่ายอาหารที่มีคุณค่าทางโภชนาการให้กับ เด็กๆ รวมแปดครั้งต่อเดือนในห้าแห่ง ได้แก่ ร้านขายขนม ร้านกาแฟท้องถิ่น และร้านขายของเด็ก</p>
+								<img src="images/index/top_page_link_menu5.webp" alt="กิจกรรมการแจกจ่ายอาหารในญี่ปุ่น">
+								<p class="dining_room_img_area_ttl">กิจกรรมการแจกจ่ายอาหารในญี่ปุ่น</p>
+								<p class="dining_room_img_area_text">เราแจกจ่ายอาหารที่มีประโยชน์ให้กับเด็กๆ โดยมีพื้นที่หลัก 5 แห่งในเมืองโยโกฮาม่า จังหวัดคานากาวะ
+ เช่น "โรงอาหารบาคาอุมะ ย่านการค้าโยโกฮามาบาชิโดริ", "พื้นที่รังสรรค์ชีวิต นิชิ (Guts Beat Nishi)",
+ "วัดโซโตะเซน อาโอกิยามะ ฮงคาคุจิ", "เดย์เซอร์วิสหลังเลิกเรียน / ฟุเรย์ไอพลาซ่า"
+ และ "ดาคาชิยะ ร้านคาเฟ่ท้องถิ่นของเด็กๆ" รวมทั้งสิ้น 8 ครั้งต่อเดือน</p>
 							</div>
 							<div class="dining_room_img_area_wrap dining_room_img_area_wrap3">
-								<img src="images/index/top_page_link_menu2.webp" alt="กิจกรรมช่วยเหลือฉุกเฉิน">
-								<p class="dining_room_img_area_ttl">กิจกรรมช่วยเหลือฉุกเฉิน</p>
-								<p class="dining_room_img_area_text">พายุไต้ฝุ่นที่เกิดขึ้นในฟิลิปปินส์ในปี พ.ศ. 2564 และเหตุเพลิงไหม้ขนาดใหญ่ในปี พ.ศ. 2566 ทำให้เกิดความเสียหายอย่างมาก
-									ในขณะที่ผู้คนจำนวนมากตกทุกข์ได้ยาก เราได้ดำเนินกิจกรรมเพื่อแจกจ่ายอาหารที่เรารวบรวมได้ในปัจจุบันให้กับผู้ประสบภัยพิบัติ.
-									ปัญหาปัจจุบันคือสิ่งของดังกล่าวไม่ได้มีให้สำหรับทุกคน.
-									Ifran จะพยายามอย่างเต็มที่เพื่อให้การสนับสนุนเพื่อให้สามารถจัดส่งสิ่งของต่างๆ ให้กับผู้คนได้มากที่สุดเท่าที่จะเป็นไปได้</p>
+								<img src="images/index/top_page_link_menu2.webp" alt="กิจกรรมการช่วยเหลือในกรณีฉุกเฉิน">
+								<p class="dining_room_img_area_ttl">กิจกรรมการช่วยเหลือในกรณีฉุกเฉิน</p>
+								<p class="dining_room_img_area_text">พายุไต้ฝุ่นที่เกิดขึ้นในปีพ.ศ.2564
+ และเหตุเพลิงไหม้ครั้งใหญ่ในปี พ.ศ. 2566
+ ทำให้ฟิลิปปินส์เกิดความเสียหายอย่างมาก
+ ในขณะที่ผู้คนจำนวนมากตกทุกข์ได้ยาก
+ เราได้ดำเนินการแจกจ่ายอาหารที่รวบรวมได้ในขณะนั้นให้กับเหล่าผู้ประสบภัย
+ ปัญหาในขณะนั้นคือสิ่งของที่จำเป็นในการดำรงชีพ
+ มีไม่เพียงพอสำหรับทุกคน
+ ทางอีฟรานจึงได้ช่วยเหลืออย่างสุดความสามารถ
+ เพื่อส่งมอบสิ่งของที่จำเป็นในการดำรงชีพให้ได้มากที่สุด</p>
 							</div>
 							<div class="dining_room_img_area_wrap dining_room_img_area_wrap4">
-								<img src="images/index/top_page_link_menu3.webp" alt="กิจกรรมบริจาคในท้องถิ่น">
-								<p class="dining_room_img_area_ttl">กิจกรรมบริจาคในท้องถิ่น</p>
-								<p class="dining_room_img_area_text">กิจกรรมช่วยเหลือชุมชนที่เริ่มต้นตามคำร้องขอของคณะกรรมการสวัสดิการชุมชนเขตนิชิและคณะกรรมการเด็กเราเชื่อว่านี่เป็นโอกาสสำหรับผู้คนที่หลากหลายในการเรียนรู้เกี่ยวกับ ``Ifran Children's Shokudo'' โอกาสในการมีปฏิสัมพันธ์กับคนในท้องถิ่น และเป็นโอกาสสำหรับ Ifran Co., Ltd. ที่จะมีส่วนร่วมเล็กๆ น้อยๆ ให้กับท้องถิ่น ประชากร.
-								เรามุ่งมั่นที่จะเป็นบริษัทที่มีรากฐานมาจากชุมชนท้องถิ่น และเราต้องการมีส่วนร่วมในกิจกรรมที่ช่วยให้ทุกคนในชุมชนท้องถิ่นมีชีวิตที่เจริญรุ่งเรือง</p>
+								<img src="images/index/top_page_link_menu3.webp" alt="กิจกรรมการกุศลในชุมชน">
+								<p class="dining_room_img_area_ttl">กิจกรรมการกุศลในชุมชน</p>
+								<p class="dining_room_img_area_text">กิจกรรมการกุศลในชุมชนที่เริ่มต้นตามคำร้องขอของ
+								คณะกรรมการสวัสดิการสังคมและเยาวชนเขตนิชิ
+								เราเห็นโอกาสที่จะทำให้ผู้คนจำนวนมากรู้จัก "โรงอาหารเด็กอีฟราน" มากขึ้น
+ จึงได้มีปฏิสัมพันธ์กับผู้คนในชุมชน เพื่อทำให้บริษัท อีฟราน จำกัดได้มีโอกาส
+ ช่วยเหลือชุมชนมากขึ้นแม้เพียงสักเล็กน้อยก็ยังดี
+ เรามุ่งมั่นจะเป็นบริษัทที่มีรากฐานร่วมกับชุมชน
+ และอยากอุทิศตนเพื่อให้ผู้คนในชุมชนมีชีวิตอยู่อย่างอุดมสมบูรณ์</p>
 							</div>
 						</div>
 
@@ -269,19 +286,22 @@
 					<div class="col">
 						<a href="https://e-fran.jp/contributions/animal.php" class="img__link">
 							<div class="img">
-								<img src="images/index/Official_Supporter_of_AniDone.webp" alt="บริจาคให้กับองค์กรสวัสดิภาพสัตว์">
+								<img src="images/index/Official_Supporter_of_AniDone.webp" alt="การบริจาคให้กับองค์กรสวัสดิภาพสัตว์">
 							</div>
-							<p class="csr_section_ttl">บริจาคให้กับองค์กรสวัสดิภาพสัตว์</p>
-							<p class="csr_section_text">เราช่วยเหลือสังคมเกี่ยวกับสัตว์โดยการบริจาคส่วนหนึ่งของผลกำไรของเราให้กับ Animal Donation Public Interest Incorporated Association</p>
+							<p class="csr_section_ttl">การบริจาคให้กับองค์กรสวัสดิภาพสัตว์</p>
+							<p class="csr_section_text">เราได้นำกำไรบางส่วนบริจาคให้กับ "สมาคมเพื่อสาธารณประโยชน์ แอนิมอลโดเนชั่น"
+ เพื่อช่วยเหลือสังคมในด้านสวัสดิภาพสัตว์</p>
 						</a>
 					</div>
 					<div class="col">
 						<a href="https://e-fran.jp/contributions/backpack.php" class="img__link">
 							<div class="img" style="border: 1px solid #eac588;">
-								<img src="images/index/Memories_of_Schoolbags_Gift_Program.webp" alt="สนับสนุนความเป็นอิสระผ่านกิจกรรมมอบของขวัญกระเป๋านักเรียนอันน่าจดจำ">
+								<img src="images/index/Memories_of_Schoolbags_Gift_Program.webp" alt="สนับสนุนการเชื่อมั่นในตนเอง
+ ผ่านกิจกรรมโครงการของขวัญกระเป๋านักเรียนแห่งความทรงจำ">
 							</div>
-							<p class="csr_section_ttl">สนับสนุนความเป็นอิสระผ่านกิจกรรมมอบของขวัญกระเป๋านักเรียนอันน่าจดจำ</p>
-							<p class="csr_section_text">Ifran Co., Ltd. บริจาคกระเป๋านักเรียนที่ไม่ต้องการให้กับเด็กๆ ในอัฟกานิสถาน ซึ่งเป็นส่วนหนึ่งของความพยายามช่วยเหลือสังคมของเรา</p>
+							<p class="csr_section_ttl">สนับสนุนการเชื่อมั่นในตนเอง
+ ผ่านกิจกรรมโครงการของขวัญกระเป๋านักเรียนแห่งความทรงจำ</p>
+							<p class="csr_section_text">บริษัท อีฟราน จำกัดมีส่วนช่วยเหลือสังคมโดยการนำกระเป๋านักเรียนที่ไม่ใช้แล้ว ไปบริจาคให้กับเด็กๆ ในอัฟกานิสถาน</p>
 						</a>
 					</div>
 					<div class="col">

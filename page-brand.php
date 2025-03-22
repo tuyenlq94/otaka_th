@@ -119,63 +119,63 @@
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp"
-									alt="ซื้อ Hermes"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Hermes </h3>
+									alt="รับซื้อ Hermès"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Hermès </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp"
-									alt="ซื้อ Chanel"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Chanel </h3>
+									alt="รับซื้อ Chanel"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Chanel </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp"
-									alt="ซื้อ Louis Vuitton"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Louis Vuitton </h3>
+									alt=" รับซื้อ Louis Vuitton"> </div>
+							<h3 class="expensive_purchase_brand_item_h4">  รับซื้อ Louis Vuitton </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp"
-									alt="ซื้อ Harry Winston"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Harry Winston </h3>
+									alt="รับซื้อ Harry Winston"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Harry Winston </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp"
-									alt="ซื้อ Van Cleef & Arpels "> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Van Cleef & Arpels  </h3>
+									alt="รับซื้อ Van Cleef & Arpels "> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Van Cleef & Arpels  </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp"
-									alt="การซื้อ Tiffany"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Tiffany </h3>
+									alt="รับซื้อ Tiffany & Co."> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Tiffany & Co. </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp"
-									alt="คาร์เทียร์ซื้อ"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> คาร์เทียร์ซื้อ </h3>
+									alt="รับซื้อ Cartier"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Cartier </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp"
-									alt="การซื้อ Bulgari"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Bulgari </h3>
+									alt="รับซื้อ Bvlgari"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Bvlgari </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp"
-									alt="Gucci การซื้อ"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Gucci การซื้อ </h3>
+									alt="รับซื้อ Gucci"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Gucci </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp"
-									alt="การซื้อ Dior"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Dior </h3>
+									alt="รับซื้อ Dior"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Dior </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./prada/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp"
-									alt="การซื้อ Prada"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Prada </h3>
+									alt="รับซื้อ Prada"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Prada </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chopard/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img
-									src="../images/brand/happydiamond.webp" alt="การซื้อ Chopard"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Chopard </h3>
+									src="../images/brand/happydiamond.webp" alt="รับซื้อ Chopard"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Chopard </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
@@ -188,52 +188,52 @@
 				</div>
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="ซื้อ Hermes"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Hermes </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="รับซื้อ Hermès"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Hermès </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="ซื้อ Chanel"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Chanel </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="รับซื้อ Chanel"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Chanel </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt="ซื้อ Louis Vuitton"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Louis Vuitton </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt=" รับซื้อ Louis Vuitton"> </div>
+							<h3 class="expensive_purchase_brand_item_h4">  รับซื้อ Louis Vuitton </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="ซื้อ Harry Winston"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Harry Winston </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="รับซื้อ Harry Winston"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Harry Winston </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="ซื้อ Van Cleef & Arpels "> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> ซื้อ Van Cleef & Arpels  </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp" alt="รับซื้อ Van Cleef & Arpels "> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Van Cleef & Arpels  </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp" alt="การซื้อ Tiffany"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Tiffany </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp" alt="รับซื้อ Tiffany & Co."> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Tiffany & Co. </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="คาร์เทียร์ซื้อ"> </div>
 							<h3 class="expensive_purchase_brand_item_h4"> คาร์เทียร์ซื้อ </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="การซื้อ Bulgari"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Bulgari </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="รับซื้อ Bvlgari"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Bvlgari </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="Gucci การซื้อ"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> Gucci การซื้อ </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="รับซื้อ Gucci"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Gucci </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="การซื้อ Dior"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Dior </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="รับซื้อ Dior"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Dior </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./prada/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="การซื้อ Prada"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Prada </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/saffiano.webp" alt="รับซื้อ Prada"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Prada </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chopard/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="การซื้อ Chopard"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> การซื้อ Chopard </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/happydiamond.webp" alt="รับซื้อ Chopard"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Chopard </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
 					<div class="expensive_purchase_brand_item_dummy"></div>
@@ -251,8 +251,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/en_birkin.webp" alt="ซื้อ Hermes"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">ซื้อ Hermes
+												src="../images/brand/en_birkin.webp" alt="รับซื้อ Hermès"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Hermès
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -263,8 +263,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/matelasse.webp" alt="ซื้อ Chanel"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">ซื้อ Chanel
+												src="../images/brand/matelasse.webp" alt="รับซื้อ Chanel"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Chanel
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -275,8 +275,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/monogram.webp" alt="ซื้อ Louis Vuitton"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">ซื้อ Louis Vuitton
+												src="../images/brand/monogram.webp" alt=" รับซื้อ Louis Vuitton"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand"> รับซื้อ Louis Vuitton
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -287,8 +287,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/lily.webp" alt="ซื้อ Harry Winston"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">ซื้อ Harry Winston
+												src="../images/brand/lily.webp" alt="รับซื้อ Harry Winston"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Harry Winston
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -299,9 +299,9 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/alhambra.webp" alt="ซื้อ Van Cleef & Arpels ">
+												src="../images/brand/alhambra.webp" alt="รับซื้อ Van Cleef & Arpels ">
 										</div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">ซื้อ Van Cleef & Arpels
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Van Cleef & Arpels
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -312,8 +312,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/tsmile.webp" alt="การซื้อ Tiffany"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">การซื้อ Tiffany
+												src="../images/brand/tsmile.webp" alt="รับซื้อ Tiffany & Co."> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Tiffany & Co.
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -336,8 +336,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/bzeroone.webp" alt="การซื้อ Bulgari"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">การซื้อ Bulgari
+												src="../images/brand/bzeroone.webp" alt="รับซื้อ Bvlgari"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Bvlgari
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -348,8 +348,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/ggmarmont.webp" alt="Gucci การซื้อ"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">Gucci การซื้อ
+												src="../images/brand/ggmarmont.webp" alt="รับซื้อ Gucci"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Gucci
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -360,8 +360,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/ladydior.webp" alt="การซื้อ Dior"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">การซื้อ Dior
+												src="../images/brand/ladydior.webp" alt="รับซื้อ Dior"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Dior
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -372,8 +372,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/saffiano.webp" alt="การซื้อ Prada"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">การซื้อ Prada
+												src="../images/brand/saffiano.webp" alt="รับซื้อ Prada"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Prada
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -384,8 +384,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/happydiamond.webp" alt="การซื้อ Chopard"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">การซื้อ Chopard
+												src="../images/brand/happydiamond.webp" alt="รับซื้อ Chopard"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Chopard
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -683,7 +683,7 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*รูปภาพนี้ใช้เพื่อเป็นตัวอย่างเท่านั้น<br>
+								*รูปภาพใช้เพื่อเป็นภาพประกอบเท่านั้น<br>
 								*ราคานี้เป็นราคาซื้ออ้างอิงสำหรับสินค้าที่มาพร้อมการรับประกันและอุปกรณ์เสริม
 							</div>
 						</div>
@@ -953,7 +953,7 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*รูปภาพนี้ใช้เพื่อเป็นตัวอย่างเท่านั้น<br>
+								*รูปภาพใช้เพื่อเป็นภาพประกอบเท่านั้น<br>
 								*ราคานี้เป็นราคาซื้ออ้างอิงสำหรับสินค้าที่มาพร้อมการรับประกันและอุปกรณ์เสริม
 							</div>
 						</div>
@@ -1213,7 +1213,7 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*รูปภาพนี้ใช้เพื่อเป็นตัวอย่างเท่านั้น<br>
+								*รูปภาพใช้เพื่อเป็นภาพประกอบเท่านั้น<br>
 								*ราคานี้เป็นราคาซื้ออ้างอิงสำหรับสินค้าที่มาพร้อมการรับประกันและอุปกรณ์เสริม
 							</div>
 						</div>
@@ -1363,7 +1363,7 @@
 								</li>
 							</div>
 							<div class="flex_annitation">
-								*รูปภาพนี้ใช้เพื่อเป็นตัวอย่างเท่านั้น<br>
+								*รูปภาพใช้เพื่อเป็นภาพประกอบเท่านั้น<br>
 								*ราคานี้เป็นราคาซื้ออ้างอิงสำหรับสินค้าที่มาพร้อมการรับประกันและอุปกรณ์เสริม
 							</div>
 						</div>
@@ -1392,14 +1392,14 @@
 										src="../images/brand/477_440_440-1.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Bag Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">รับซื้อกระเป๋า</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/wallet.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
 								<p><img class="enhanced_purchaceitems_itemimage" src="../images/brand/350-1.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Wallet Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle"> รับซื้อกระเป๋าเงิน</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/jewelry.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1407,7 +1407,7 @@
 										src="../images/brand/e18dc60eec8c61e518b6ebc301c4fc18.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Jewelry Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">รับซื้อจิวเวลรี่</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/apparel.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1415,7 +1415,7 @@
 										src="../images/brand/77ec6c8b0c0df04c50f47d28da41a96e.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Apparel Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">รับซื้อเสื้อผ้า</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/shoes.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1423,7 +1423,7 @@
 										src="../images/brand/M0iioUqInMl2CKp8-1.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Brand Shoes Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">รับซื้อรองเท้าแบรนด์เนม</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand/goods.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1431,7 +1431,7 @@
 										src="../images/brand/12a4b9ab44ed6fb297887b573fc5d0ac_02.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">Accessories Purchase</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">รับซื้อของใช้ชิ้นเล็ก</h3>
 					</div>
 					<div class="enhanced_purchaceitems_itembox"><a href="../brand-tokei/index.html" class="img__link">
 							<div class="enhanced_purchaceitems_itemimgwrap img">
@@ -1439,7 +1439,7 @@
 										src="../images/brand/2f2dacfc364ac5ecdcf8b67d903e4afa.webp"></p>
 							</div>
 						</a>
-						<h3 class="enhanced_purchaceitems_itemtitle">ซื้อนาฬิกา</h3>
+						<h3 class="enhanced_purchaceitems_itemtitle">รับซื้อนาฬิกา</h3>
 					</div>
 				</div>
 			</section>
@@ -1945,54 +1945,54 @@
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/kadosure-1.webp" alt="มุมถลอก"></p>
+							<p><img src="../images/brand/kadosure-1.webp" alt="มุมสึกหรอ"></p>
 						</div>
-						<p class="text text--center">มุมถลอก</p>
+						<p class="text text--center">มุมสึกหรอ</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/hiyake-1.webp" alt="ความเสียหายจากแสงแดด"></p>
+							<p><img src="../images/brand/hiyake-1.webp" alt="โดนแดดเผา "></p>
 						</div>
-						<p class="text text--center">ความเสียหายจากแสงแดด</p>
+						<p class="text text--center">โดนแดดเผา </p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/huzokuhin-1.webp" alt="อุปกรณ์ขาดหาย"></p>
+							<p><img src="../images/brand/huzokuhin-1.webp" alt="อุปกรณ์เสริม"></p>
 						</div>
-						<p class="text text--center">อุปกรณ์ขาดหาย</p>
+						<p class="text text--center">อุปกรณ์เสริม</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/sabi-1.webp" alt="สนิม"></p>
+							<p><img src="../images/brand/sabi-1.webp" alt="ขึ้นสนิม"></p>
 						</div>
-						<p class="text text--center">สนิม</p>
+						<p class="text text--center">ขึ้นสนิม</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/831ccd57c832dbc9f80649d253aebaa5.webp" alt="หนังแตก">
+							<p><img src="../images/brand/831ccd57c832dbc9f80649d253aebaa5.webp" alt="หนังเสื่อมโทรม">
 							</p>
 						</div>
-						<p class="text text--center">หนังแตก</p>
+						<p class="text text--center">หนังเสื่อมโทรม</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/40652420a4303af82cf6795a82b97e6b.webp" alt="คราบหมึก"></p>
+							<p><img src="../images/brand/40652420a4303af82cf6795a82b97e6b.webp" alt="เปื้อนหมึก "></p>
 						</div>
-						<p class="text text--center">คราบหมึก</p>
+						<p class="text text--center">เปื้อนหมึก </p>
 					</div>
 					<div class="col">
 						<div class="img">
 							<p><img src="../images/brand/e71016dd6f2f0f35db2ffcb2d0d09203.webp"
-									alt="การเปลี่ยนสีภายใน"></p>
+									alt="มีคราบภายใน"></p>
 						</div>
-						<p class="text text--center">การเปลี่ยนสีภายใน</p>
+						<p class="text text--center">มีคราบภายใน</p>
 					</div>
 					<div class="col">
 						<div class="img">
 							<p><img src="../images/brand/984200ea113b94d27d2ad9b86085a99d.webp"
-									alt="สิ่งสกปรกบนหนังที่ไม่ได้รับการบำบัด"></p>
+									alt="หนังฟอกสกปรก"></p>
 						</div>
-						<p class="text text--center">สิ่งสกปรกบนหนังที่ไม่ได้รับการบำบัด</p>
+						<p class="text text--center">หนังฟอกสกปรก</p>
 					</div>
 				</div>
 			</section>
@@ -2019,9 +2019,9 @@
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/daiya/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/3_daiya.webp" alt="รับซื้อเพชร/เครื่องประดับ"></p>
+								<p><img src="../images/brand/3_daiya.webp" alt="รับซื้อเพชรและอัญมณี"></p>
 							</div>
-							<p class="text text--center">รับซื้อเพชร/เครื่องประดับ</p>
+							<p class="text text--center">รับซื้อเพชรและอัญมณี</p>
 						</a> </div>
 					<div class="col"> <a href="../brand-tokei/index.html" class="img__link">
 							<div class="img">
@@ -2031,15 +2031,15 @@
 						</a> </div>
 					<div class="col"> <a href="/brand-tokei/rolex/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/17_rolex.webp" alt="ซื้อโรเล็กซ์"></p>
+								<p><img src="../images/brand/17_rolex.webp" alt="รับซื้อ Rolex"></p>
 							</div>
-							<p class="text text--center">ซื้อโรเล็กซ์</p>
+							<p class="text text--center">รับซื้อ Rolex</p>
 						</a> </div>
 					<div class="col"> <a href="/brand-tokei/omega/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/18_omega.webp" alt="รับซื้อโอเมก้า"></p>
+								<p><img src="../images/brand/18_omega.webp" alt="รับซื้อ Omega"></p>
 							</div>
-							<p class="text text--center">รับซื้อโอเมก้า</p>
+							<p class="text text--center">รับซื้อ Omega</p>
 						</a> </div>
 					<div class="col"> <a href="./" class="img__link">
 							<div class="img">
@@ -2049,15 +2049,15 @@
 						</a> </div>
 					<div class="col"> <a href="./hermes/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/19_hermes.webp" alt="ซื้อ Hermes"></p>
+								<p><img src="../images/brand/19_hermes.webp" alt="รับซื้อ Hermès"></p>
 							</div>
-							<p class="text text--center">ซื้อ Hermes</p>
+							<p class="text text--center">รับซื้อ Hermès</p>
 						</a> </div>
 					<div class="col"> <a href="./chanel/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/20_chanel.webp" alt="ซื้อ Chanel"></p>
+								<p><img src="../images/brand/20_chanel.webp" alt="รับซื้อ Chanel"></p>
 							</div>
-							<p class="text text--center">ซื้อ Chanel</p>
+							<p class="text text--center">รับซื้อ Chanel</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/kitte/" class="img__link">
 							<div class="img">
