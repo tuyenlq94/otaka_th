@@ -1421,20 +1421,7 @@
 								</div>
 							</div>
 						</div>
-						<div class="brandinfo__main fshoplist-target__list">
-							<div class="brandinfo__header fshoplist-target--ttl">
-								<h3 class="brandinfo__header__title">ราคาตลาดทองคำและแนวโน้มราคาในช่วง 30 ปีที่ผ่านมา</h3>
-							</div>
-							<div class="fshoplist-target--item brandinfo__body no--image">
-								<div class="brandinfo__body__text brandinfo__body__text--top">
-									สามสิบปีที่แล้ว ในช่วงทศวรรษ 1990 ราคาทองคำอยู่ที่ประมาณ 1,000 ถึง 1,500 เยนต่อกรัม ซึ่งเป็นราคาที่ไม่สามารถจินตนาการได้ในปัจจุบัน<br />
-									<br />
-									อย่างไรก็ตาม เนื่องจากผลกระทบของสภาพสังคมที่ไม่มั่นคง เช่น Lehman Shock และ Corona Shock มูลค่าของทองคำในฐานะ "สินทรัพย์ที่ปลอดภัย" จึงเพิ่มขึ้น และในขณะเดียวกันราคาก็เพิ่มสูงขึ้นเช่นกัน<br />
-									<br />
-									ในปี 2024 ราคาทองคำอยู่ที่มากกว่า 10,000 เยนต่อกรัม ซึ่งสูงเป็นประวัติการณ์
-								</div>
-							</div>
-						</div>
+
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
 								<h3 class="brandinfo__header__title">เคล็ดลับการขายทองคำให้ราคาสูง</h3>
@@ -1495,23 +1482,6 @@
 						</p>
 						<p>
 						ด้วยการเพิ่มต้นทุนที่เกี่ยวข้องกับการขายเข้ากับราคาซื้อ เราจะสามารถซื้อได้ในราคาที่สูงซึ่งเป็นเอกลักษณ์เฉพาะของ Otakaraya
-						</p>
-					</div>
-					<h3 class="renew_202404_sellreason_shutter_title">
-						ราคาตลาดทองคำและแนวโน้มราคาในช่วง 30 ปีที่ผ่านมา
-						<div class="renew_202404_sellreason_shutter_circle">
-							<div class="renew_202404_sellreason_shutter_arrow"></div>
-						</div>
-					</h3>
-					<div class="renew_202404_sellreason_shutter_story">
-						<p>
-						สามสิบปีที่แล้ว ในช่วงทศวรรษ 1990 ราคาทองคำอยู่ที่ประมาณ 1,000 ถึง 1,500 เยนต่อกรัม ซึ่งเป็นราคาที่ไม่สามารถจินตนาการได้ในปัจจุบัน
-						</p>
-						<p>
-						อย่างไรก็ตาม เนื่องจากผลกระทบของสภาพสังคมที่ไม่มั่นคง เช่น Lehman Shock และ Corona Shock มูลค่าของทองคำในฐานะ "สินทรัพย์ที่ปลอดภัย" จึงเพิ่มขึ้น และในขณะเดียวกันราคาก็เพิ่มสูงขึ้นเช่นกัน
-						</p>
-						<p>
-							<span>ในปี 2024 ราคาทองคำอยู่ที่มากกว่า 10,000 เยนต่อกรัม ซึ่งสูงเป็นประวัติการณ์</span>
 						</p>
 					</div>
 					<h3 class="renew_202404_sellreason_shutter_title">
