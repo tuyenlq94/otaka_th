@@ -1406,21 +1406,6 @@
 						</div>
 					</div>
 					<div class="brandinfo brandinfo_red_repeat">
-						<div class="brandinfo__main fshoplist-target__list">
-							<div class="brandinfo__header fshoplist-target--ttl">
-								<h3 class="brandinfo__header__title">
-									ทำไม Otakaraya ถึงซื้อทองคำได้ในราคาที่สูง
-								</h3>
-							</div>
-							<div class="fshoplist-target--item brandinfo__body no--image">
-								<div class="brandinfo__body__text brandinfo__body__text--top">
-									Otakaraya เป็นร้านค้าที่เชี่ยวชาญด้านการจัดซื้อ ดังนั้นเราจึงไม่มีร้านค้าที่ขายสินค้าที่ซื้อจากลูกค้า
-									เราจัดการกับสินค้าที่ซื้อไม่เพียงแต่ในญี่ปุ่น แต่ยังรวมถึงบริษัทและธุรกิจใน 44 ประเทศทั่วโลก<br />
-									<br />
-									ด้วยการเพิ่มต้นทุนที่เกี่ยวข้องกับการขายเข้ากับราคาซื้อ เราจะสามารถซื้อได้ในราคาที่สูงซึ่งเป็นเอกลักษณ์เฉพาะของ Otakaraya
-								</div>
-							</div>
-						</div>
 
 						<div class="brandinfo__main fshoplist-target__list">
 							<div class="brandinfo__header fshoplist-target--ttl">
@@ -1470,20 +1455,7 @@
 						</div>
 					</div>
 					<!-- renew_202404_sellreason_item -->
-					<h3 class="renew_202404_sellreason_shutter_title">
-						ทำไม Otakaraya ถึงซื้อทองคำได้ในราคาที่สูง
-						<div class="renew_202404_sellreason_shutter_circle">
-							<div class="renew_202404_sellreason_shutter_arrow"></div>
-						</div>
-					</h3>
-					<div class="renew_202404_sellreason_shutter_story">
-						<p>
-							<span>Otakaraya เป็นร้านค้าที่เชี่ยวชาญด้านการจัดซื้อ ดังนั้นเราจึงไม่มีร้านค้าที่ขายสินค้าที่ซื้อจากลูกค้า</span>เราจัดการกับสินค้าที่ซื้อไม่เพียงแต่ในญี่ปุ่น แต่ยังรวมถึงบริษัทและธุรกิจใน 44 ประเทศทั่วโลก
-						</p>
-						<p>
-						ด้วยการเพิ่มต้นทุนที่เกี่ยวข้องกับการขายเข้ากับราคาซื้อ เราจะสามารถซื้อได้ในราคาที่สูงซึ่งเป็นเอกลักษณ์เฉพาะของ Otakaraya
-						</p>
-					</div>
+
 					<h3 class="renew_202404_sellreason_shutter_title">
 						เคล็ดลับการขายทองคำให้ราคาสูง
 						<div class="renew_202404_sellreason_shutter_circle">
