@@ -124,7 +124,7 @@
 								<select id="graph-select" class="form-control my-5">
 									<option value="">เลือกประเภท</option>
 									<optgroup label="gold">
-										<option value="k24_ingot" selected="selected">Ingots (gold)</option>
+										<option value="k24_ingot" selected="selected">ทองคำแท่ง</option>
 										<option value="k24">K24</option>
 										<option value="k23">K23</option>
 										<option value="k22">K22</option>
@@ -158,19 +158,19 @@
 									</optgroup>
 								</select>
 							</div>
-							<p id="price-chart-legend" class="chart-legend">Ingots (gold) (S$/g)</p>
+							<p id="price-chart-legend" class="chart-legend">ทองคำแท่ง (S$/g)</p>
 						</div>
 						<div class="flex flex--hasItem6">
 							<ul class="flex__tab">
-								<li class="tab__item active"><a>1 month</a></li>
-								<li class="tab__item "><a>3 months</a></li>
-								<li class="tab__item "><a>6 months</a></li>
-								<li class="tab__item "><a>1 year</a></li>
-								<li class="tab__item "><a>3 years</a></li>
-								<li class="tab__item "><a>10 years</a></li>
-								<li class="tab__item "><a>20 years</a></li>
-								<li class="tab__item "><a>30 years</a></li>
-								<li class="tab__item "><a>entire duration</a></li>
+								<li class="tab__item active"><a>1 เดือน</a></li>
+								<li class="tab__item "><a>3 เดือน</a></li>
+								<li class="tab__item "><a>6 เดือน</a></li>
+								<li class="tab__item "><a>1 ปี</a></li>
+								<li class="tab__item "><a>3 ปี</a></li>
+								<li class="tab__item "><a>10 ปี</a></li>
+								<li class="tab__item "><a>20 ปี</a></li>
+								<li class="tab__item "><a>30 ปี</a></li>
+								<li class="tab__item "><a>ระยะเวลาทั้งหมด</a></li>
 							</ul>
 							<div class="flex__tabContents no_slider">
 								<div class="flex__content active">
