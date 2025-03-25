@@ -4572,12 +4572,12 @@
 					<div class="renew_2024_titlesub_topbar_left"></div>
 					<div class="renew_2024_titlesub_topbar_right"></div>
 				</div>
-				คำถามที่พบบ่อย About Diamond Purchases
+				คำถามที่พบบ่อยเกี่ยวกับการซื้อเพชร
 			</h2>
 			<section class="renew2024">
 				<div class="titleMain titleMain--wrapper is-pc">
 					<h2 class="titleMain--main">
-						คำถามที่พบบ่อย About Diamond Purchases
+						คำถามที่พบบ่อยเกี่ยวกับการซื้อเพชร
 					</h2>
 					<div class="titleMain--lead">
 						<p></p>
