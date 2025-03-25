@@ -6926,7 +6926,7 @@ Otakara-ya เราจะประเมินและซื้อนาฬิ
 							<!--アコーディオン：2025年最新！高く売れるブランド腕時計-->
 							<div class="brandinfo__main fshoplist-target__list">
 								<div class="brandinfo__header fshoplist-target--ttl">
-									<h3 class="brandinfo__header__title">ล่าสุดในปี 2025 <br />
+									<h3 class="brandinfo__header__title">อัปเดต 2025! <br />
 									นาฬิกาแบรนด์ที่ขายสูง</h3>
 								</div>
 								<div class="fshoplist-target--item brandinfo__body no--image">
