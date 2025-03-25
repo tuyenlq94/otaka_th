@@ -2024,16 +2024,6 @@
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">
-							หากมีคนมาซื้อของที่บ้านอาจกังวลว่าเพื่อนบ้านจะคิดอย่างไร...
-							</dt>
-							<dd class="qa__list__a">
-							เมื่อผู้ประเมินราคามาเยี่ยมบ้านของคุณโดยรถยนต์ คุณสามารถมั่นใจได้ว่าผู้ประเมินจะใช้รถโดยสารที่ไม่มีชื่อบริษัทอยู่
-							</dd>
-						</dl>
-					</div>
-					<div class="qa__list js__more--item3">
-						<dl class="qa__list__inner">
-							<dt class="qa__list__q">
 							เป็นไปได้ไหมที่จะซื้อโดยไม่มีอุปกรณ์เสริม?
 							</dt>
 							<dd class="qa__list__a">
