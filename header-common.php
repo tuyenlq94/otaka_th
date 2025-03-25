@@ -3,7 +3,7 @@
 	<div class="header__head">
 		<div class="logo__wrap">
 			<p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="おたからや"></a></p>
-			<h1 class="logo__text">ประเมินราคารับซื้อทองคำฟรี และรับซื้อถึงที่จากร้านรับซื้อโดยตรงกว่า 1,300 สาขาทั่วโลก</h1>
+			<h1 class="logo__text">เรามีการประเมินและรับซื้อทองคำฟรีที่ร้านกว่า 1,300 แห่งทั่วโลก</h1>
 		</div>
 		<div class="tel__wrap">
 			<p class="tel__img"><img src="../images/common/header_tel.png" alt="0120-555-600"></p>
