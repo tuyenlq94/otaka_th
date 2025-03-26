@@ -148,7 +148,7 @@
 								</div>
 								<div class="repeater-item">
 									<div class="brand_repeat_img"> <img
-											src="../images/brand_tokei/price_list_rorex_img5.webp" alt="オメガ">
+											src="../images/brand_tokei/price_list_rorex_img5.webp" alt="โอเมก้า">
 									</div>
 									<div class="brand_text">
 										<p>Omega</p>
@@ -258,8 +258,8 @@
 						</div>
 					</div>
 					<p class="american_indian">*ข้อมูลข้างต้นคำนวณจากราคาอ้างอิงในตลาด ราคาตลาดมีความผันผวนขึ้นอยู่กับสภาพของผลิตภัณฑ์และช่วงเวลาของปี</p>
-					<img class="is-pc" src="../images/brand_tokei/EN_f_area_img.webp" alt="高くなってるかも"> <img class="is-sp"
-						src="../images/brand_tokei/EN_f_area_img_sp.webp" alt="高くなってるかも">
+					<img class="is-pc" src="../images/brand_tokei/EN_f_area_img.webp" alt="มันอาจจะแพงขึ้น"> <img class="is-sp"
+						src="../images/brand_tokei/EN_f_area_img_sp.webp" alt="มันอาจจะแพงขึ้น">
 				</div>
 			</section>
 			<!--//END sec brand_tokei_sec01 -->
@@ -5732,18 +5732,18 @@
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
 							<h3 class="theme_b_color">เรายังซื้อนาฬิกาที่พังอีกด้วย!</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
-									src="../images/brand_tokei/watch_broken_reinforcement_img1.webp" alt="時計画像1">
+									src="../images/brand_tokei/watch_broken_reinforcement_img1.webp" alt="รูปนาฬิกา 1">
 								<p class="theme_color_text theme_color">\ ตกลงที่จะซื้อแม้ในสภาพนี้! /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่มีกระจกแตก</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่หยุดทำงาน(ของที่เคลื่อนย้ายไม่ได้)</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่จมอยู่ในน้ำและเป็นสนิมอยู่ข้างใน</p>
 								</div>
 								<p class="description_text">หากนาฬิกาของคุณชำรุด เช่น ทำหล่นและกระจกแตก หรือหากนาฬิกาจมอยู่ในน้ำและหยุดทำงาน การซ่อมแซมอาจมีราคาแพง อย่างไรก็ตาม ที่ Otakara-ya เราประเมินมูลค่าของทรัพย์สินอย่างรอบคอบและซื้อมันในราคาที่สูง แม้ว่าจะจำเป็นต้องซ่อมแซมก็ตาม โปรดปรึกษาเราก่อนที่จะยอมแพ้!</p>
@@ -5757,14 +5757,14 @@
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
 							<h3 class="theme_b_color">เราก็สามารถซื้อนาฬิกาที่มีรอยขีดข่วนมากมายได้!</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
-									src="../images/brand_tokei/watch_broken_reinforcement_img2.webp" alt="時計画像2">
+									src="../images/brand_tokei/watch_broken_reinforcement_img2.webp" alt="ภาพนาฬิกา 2">
 								<p class="theme_color_text theme_color">\ ตกลงที่จะซื้อแม้ในสภาพนี้! /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>มีรอยขีดข่วนและรอยบุบมากมาย</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่สกปรกจากการใช้งานในแต่ละวัน</p>
 								</div>
 								<p class="description_text">เมื่อใช้เป็นประจำทุกวัน นาฬิกาของคุณจะได้รับรอยขีดข่วนและรอยบุบเล็กน้อยอย่างหลีกเลี่ยงไม่ได้ ที่
@@ -5780,18 +5780,18 @@ Otakara-ya เราจะประเมินและซื้อนาฬิ
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
 							<h3 class="theme_b_color">รับซื้อนาฬิกาเก่าให้ราคาสูง!</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
-									src="../images/brand_tokei/watch_broken_reinforcement_img3.webp" alt="時計画像3">
+									src="../images/brand_tokei/watch_broken_reinforcement_img3.webp" alt="รูปนาฬิกา 3">
 								<p class="theme_color_text theme_color">\ ตกลงที่จะซื้อแม้ในสภาพนี้! /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่มีสนิมอย่างเห็นได้ชัด</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่มีหน้าปัดเปลี่ยนสี</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่มีหน้าปัดหายไป</p>
 								</div>
 								<p class="description_text">แม้ว่านาฬิกาจะเก่าแต่ก็ไม่สูญเสียมูลค่าของแบรนด์ แม้แต่นาฬิกาที่คุณคิดว่าไม่สามารถขายได้เพราะเป็นสนิมก็ยังซื้อได้
@@ -5805,18 +5805,18 @@ Otakara-ya เราจะประเมินและซื้อนาฬิ
 						<div class="state_bad_purchase_section_bottom_content theme_color_border">
 							<h3 class="theme_b_color">นาฬิกาบางเรือนอะไหล่หาย!</h3>
 							<div class="state_bad_purchase_section_bottom_content_wrap"> <img
-									src="../images/brand_tokei/watch_broken_reinforcement_img4.webp" alt="時計画像4">
+									src="../images/brand_tokei/watch_broken_reinforcement_img4.webp" alt="ภาพนาฬิกา 4">
 								<p class="theme_color_text theme_color">\ ตกลงที่จะซื้อแม้ในสภาพนี้! /</p>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>ไม่มีเข็มขัดหรือหัวเข็มขัด</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>เม็ดมะยมและปุ่มกดหายไป</p>
 								</div>
 								<div class="state_bad_items"> <img src="../images/brand_tokei/check.webp"
-										alt="チェックアイコン">
+										alt="ไอคอนเช็ค">
 									<p>นาฬิกาที่สกรูและชิ้นส่วนหายไป</p>
 								</div>
 								<p class="description_text">คุณเคยเลิกคิดว่า ``ขายไม่ได้แล้วเพราะอะไหล่ขาด'' หรือเปล่า? ที่ Otakara-ya คุณสามารถซื้อนาฬิกาได้แม้ว่าจะมีชิ้นส่วนที่ขาดหายไปก็ตาม นาฬิกาที่อะไหล่หายก็ซ่อมให้กลับมามีคุณค่าได้อีกครั้ง เราอาจเสนอราคาที่สูงให้กับคุณได้แม้กระทั่งนาฬิกาที่มีชิ้นส่วนขาดหายไป</p>

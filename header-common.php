@@ -2,7 +2,7 @@
 	<div id="nav_toggle"></div>
 	<div class="header__head">
 		<div class="logo__wrap">
-			<p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="おたからや"></a></p>
+			<p class="logo__img"><a href="/"><img src="../images/common/logo.png" class="logo" alt="สมบัติ"></a></p>
 			<h1 class="logo__text">เรามีการประเมินและรับซื้อทองคำฟรีที่ร้านกว่า 1,300 แห่งทั่วโลก</h1>
 		</div>
 		<div class="tel__wrap">
@@ -25,7 +25,7 @@
 			<div class="common_header_head is-sp">
 				<div class="common_logo_wrap">
 					<p class="common_logo_img"><a href="/"><img src="../images/common/logo.png" class="logo"
-								alt="おたからや"></a></p>
+								alt="สมบัติ"></a></p>
 					<h1 class="common_logo_text">หากต้องการซื้อและประเมินทองคำ ให้ไปที่ Otakaraya
 						บริษัทจัดซื้อที่มีมูลค่าสูง.</h1>
 				</div>

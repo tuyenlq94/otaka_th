@@ -82,9 +82,9 @@
 			</section>
 			<section class="simple_cta_top">
 				<div class="kv_area">
-					<p class="is-pc"><img src="../images/daiya/diamond_banner_PC.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+					<p class="is-pc"><img src="../images/daiya/diamond_banner_PC.webp" alt="เพชรที่ซบเซา: ถ้าไม่ขายตอนนี้ คุณอาจสูญเสียได้! -">
 					</p>
-					<p class="is-sp"><img src="../images/daiya/diamond_banner_SP.webp" alt="眠っているダイアモンド　今、売らないと損するかも！？">
+					<p class="is-sp"><img src="../images/daiya/diamond_banner_SP.webp" alt="เพชรที่ซบเซา: ถ้าไม่ขายตอนนี้ คุณอาจสูญเสียได้! -">
 					</p>
 				</div>
 			</section>
@@ -4100,7 +4100,7 @@
 ที่โอทาคาระยะ นอกจากจะมีผู้เชี่ยวชาญที่ได้รับใบรับรอง GG ประจำอยู่แล้ว เรายังมีระบบฝึกอบรมภายใน เพื่อให้ความรู้และพัฒนาทักษะของนักประเมินอัญมณีอย่างต่อเนื่อง
 
 ด้วยเหตุนี้ เราจึงสามารถให้บริการประเมินอัญมณีทุกประเภทได้อย่างถูกต้อง แม่นยำในระดับมืออาชีพ				</div>
-				<img class="renew_2024_top_gg_photo" src="../images/daiya/photo_iwamatsu_202404_en.webp" alt="岩松 ">
+				<img class="renew_2024_top_gg_photo" src="../images/daiya/photo_iwamatsu_202404_en.webp" alt="อิวามัตสึ ">
 				<div class="renew_2024_top_gg_profile_superbox">
 					<div class="renew_2024_top_gg_profile_flex">
 						<div class="renew_2024_top_gg_profile_left">
@@ -4247,7 +4247,7 @@
 							<div class="col">
 								<div class="img">
 									<img class="custom-popup-img" src="../images/daiya/kantei_org.webp"
-										alt="鑑定書について">
+										alt="เกี่ยวกับใบรับรอง">
 								</div>
 							</div>
 						</div>
@@ -4373,7 +4373,7 @@
 				หากมีใบรับรองดังกล่าว กรุณานำมาพร้อมกับเพชรในกรณีที่ต้องการขาย
 				</div>
 				<div class="renew_2024_auth_item_superbox">
-					<img class="renew_2024_auth_item_innerimage custom-popup-img" src="../images/daiya/kantei_org.webp" alt="鑑定書について">
+					<img class="renew_2024_auth_item_innerimage custom-popup-img" src="../images/daiya/kantei_org.webp" alt="เกี่ยวกับใบรับรอง">
 					<h3 class="renew_2024_auth_title_about">
 						GIA (สถาบันอัญมณีศาสตร์แห่งสหรัฐอเมริกา)
 					</h3>
