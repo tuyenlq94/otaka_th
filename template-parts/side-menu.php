@@ -39,10 +39,10 @@
 		<nav class="sidebar__nav">
 			<ul>
 				<li class="btn__gy01--wrap"> <a href="/">หน้าบนสุด</a> </li>
-				<li class="btn__gy01--wrap"> <a href="/gold/">รับซื้อทองคำแท่งและทองคำรูปพรรณ</a> </li>
+				<li class="btn__gy01--wrap"> <a href="/gold/">รับซื้อทอง / ทองคำแท่ง</a> </li>
 				<li class="btn__gy01--wrap"> <a href="/watch/">รับซื้อนาฬิกา</a> </li>
-				<li class="btn__gy01--wrap"> <a href="/brand/">รับซื้อกระเป๋าและสินค้าแบรนด์เนม</a> </li>
-				<li class="btn__gy01--wrap"> <a href="/jewelry/">รับซื้อเพชรและอัญมณี</a> </li>
+				<li class="btn__gy01--wrap"> <a href="/brand/">รับซื้อกระเป๋า / สินค้าแบรนด์</a> </li>
+				<li class="btn__gy01--wrap"> <a href="/jewelry/">รับซื้อเพชร / เครื่องประดับ</a> </li>
 
 				<!-- </ul> -->
 

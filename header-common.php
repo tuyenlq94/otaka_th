@@ -39,10 +39,10 @@
 						<li class="btn__gy01--wrap"><a href="item.html">สินค้าพร้อมจำหน่าย</a></li>
 						<li class="btn__gy01--wrap"><a href="visiting.html">การจัดซื้อนอกสถานที่คืออะไร?</a></li>
 						<li class="btn__gy01--wrap"><a href="shop.html">ค้นหาร้านค้าใกล้บ้านคุณ</a></li> -->
-						<li class="btn__gy01--wrap"> <a href="/gold/">รับซื้อทองคำแท่งและทองคำรูปพรรณ</a> </li>
+						<li class="btn__gy01--wrap"> <a href="/gold/">รับซื้อทอง / ทองคำแท่ง</a> </li>
 						<li class="btn__gy01--wrap"> <a href="/watch/">รับซื้อนาฬิกา</a> </li>
-						<li class="btn__gy01--wrap"> <a href="/brand/">รับซื้อกระเป๋าและสินค้าแบรนด์เนม</a> </li>
-						<li class="btn__gy01--wrap"> <a href="/jewelry/">รับซื้อเพชรและอัญมณี</a> </li>
+						<li class="btn__gy01--wrap"> <a href="/brand/">รับซื้อกระเป๋า / สินค้าแบรนด์</a> </li>
+						<li class="btn__gy01--wrap"> <a href="/jewelry/">รับซื้อเพชร / เครื่องประดับ</a> </li>
 					</ul>
 				</div>
 

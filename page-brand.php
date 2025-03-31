@@ -84,26 +84,30 @@
 			<section class="is-pc">
 				<!--     ▼▼▼ top_h2_text▼▼▼     -->
 				<h2 class="titleHeading top_h2_text">
-				สำหรับการซื้อสินค้าแบรนด์เนม ให้มาที่ Otakaraya เพื่อซื้อสินค้ามูลค่าสูง </h2>
+					สำหรับการซื้อสินค้าแบรนด์เนม ให้มาที่ Otakaraya เพื่อซื้อสินค้ามูลค่าสูง </h2>
 				<!--     ▲▲▲ top_h2_text▲▲▲     -->
 
 				<div class="titleMain--lead">
-				จากแบรนด์ระดับนานาชาติ เช่น Hermes, Chanel และ Louis Vuitton เรามีทั้งกระเป๋า กระเป๋าสตางค์ เครื่องประดับ นาฬิกา และอื่นๆ อีกมากมาย
-เราจัดการสินค้าและประเภทต่างๆ มากมาย รวมถึงแหวน สร้อยคอ กำไลข้อมือ และต่างหู
-ที่ Otakaraya ผู้ประเมินที่มีประสบการณ์จะประเมินมูลค่าของสินค้าแบรนด์เนมของคุณอย่างแม่นยำ ดังนั้นคุณจึงสามารถใช้บริการได้อย่างมั่นใจที่ร้านค้ามากกว่า 1,200 แห่งทั่วประเทศ
+					จากแบรนด์ระดับนานาชาติ เช่น Hermes, Chanel และ Louis Vuitton เรามีทั้งกระเป๋า กระเป๋าสตางค์
+					เครื่องประดับ นาฬิกา และอื่นๆ อีกมากมาย
+					เราจัดการสินค้าและประเภทต่างๆ มากมาย รวมถึงแหวน สร้อยคอ กำไลข้อมือ และต่างหู
+					ที่ Otakaraya ผู้ประเมินที่มีประสบการณ์จะประเมินมูลค่าของสินค้าแบรนด์เนมของคุณอย่างแม่นยำ
+					ดังนั้นคุณจึงสามารถใช้บริการได้อย่างมั่นใจที่ร้านค้ามากกว่า 1,200 แห่งทั่วประเทศ
 				</div>
 			</section>
 			<div class="renew_2024_brand_titlebox is-sp">
 				<h2 class="titleHeading top_h2_text">
-				หากต้องการซื้อและประเมินราคาผลิตภัณฑ์แบรนด์เนม ให้มาที่ Otakaraya เพื่อซื้อสินค้าที่มีมูลค่าสูง
+					หากต้องการซื้อและประเมินราคาผลิตภัณฑ์แบรนด์เนม ให้มาที่ Otakaraya เพื่อซื้อสินค้าที่มีมูลค่าสูง
 				</h2>
 				<!--     ▲▲▲ top_h2_text▲▲▲     -->
 
 				<div class="renew_2024_brand_title_lead">
 					<p>
-					จากแบรนด์ระดับนานาชาติ เช่น Hermes, Chanel และ Louis Vuitton เรามีทั้งกระเป๋า กระเป๋าสตางค์ เครื่องประดับ นาฬิกา และอื่นๆ อีกมากมาย
-เราจัดการสินค้าและประเภทต่างๆ มากมาย รวมถึงแหวน สร้อยคอ กำไลข้อมือ และต่างหู
-ที่ Otakaraya ผู้ประเมินที่มีประสบการณ์จะประเมินมูลค่าของสินค้าแบรนด์เนมของคุณอย่างแม่นยำ ดังนั้นคุณจึงสามารถใช้บริการได้อย่างมั่นใจที่ร้านค้ามากกว่า 1,200 แห่งทั่วประเทศ
+						จากแบรนด์ระดับนานาชาติ เช่น Hermes, Chanel และ Louis Vuitton เรามีทั้งกระเป๋า กระเป๋าสตางค์
+						เครื่องประดับ นาฬิกา และอื่นๆ อีกมากมาย
+						เราจัดการสินค้าและประเภทต่างๆ มากมาย รวมถึงแหวน สร้อยคอ กำไลข้อมือ และต่างหู
+						ที่ Otakaraya ผู้ประเมินที่มีประสบการณ์จะประเมินมูลค่าของสินค้าแบรนด์เนมของคุณอย่างแม่นยำ
+						ดังนั้นคุณจึงสามารถใช้บริการได้อย่างมั่นใจที่ร้านค้ามากกว่า 1,200 แห่งทั่วประเทศ
 					</p>
 				</div>
 			</div>
@@ -113,24 +117,24 @@
 			<section class="is-pc">
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-					สินค้าราคาสูง - โอตาการายะ
+						สินค้าราคาสูง - โอตาการายะ
 					</h2>
 				</div>
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp"
-									alt="รับซื้อ Hermès"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Hermès </h3>
+									alt="รับซื้อเฮอร์เมส"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อเฮอร์เมส </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp"
-									alt="รับซื้อ Chanel"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Chanel </h3>
+									alt="รับซื้อชาเนล"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อชาเนล </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp"
-									alt=" รับซื้อ Louis Vuitton"> </div>
-							<h3 class="expensive_purchase_brand_item_h4">  รับซื้อ Louis Vuitton </h3>
+									alt=" รับซื้อหลุยส์ วิตตอง"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อหลุยส์ วิตตอง </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp"
@@ -140,7 +144,7 @@
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./vancleefarpels/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/alhambra.webp"
 									alt="รับซื้อ Van Cleef & Arpels "> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Van Cleef & Arpels  </h3>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Van Cleef & Arpels </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./tiffany/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/tsmile.webp"
@@ -159,8 +163,8 @@
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp"
-									alt="รับซื้อ Gucci"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Gucci </h3>
+									alt="รับซื้อกุชชี่"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อกุชชี่ </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp"
@@ -188,16 +192,16 @@
 				</div>
 				<div class="expensive_purchase_brand_repeat">
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./hermes/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="รับซื้อ Hermès"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Hermès </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/en_birkin.webp" alt="รับซื้อเฮอร์เมส"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อเฮอร์เมส </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./chanel/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="รับซื้อ Chanel"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Chanel </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/matelasse.webp" alt="รับซื้อชาเนล"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อชาเนล </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./louis-vuitton/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt=" รับซื้อ Louis Vuitton"> </div>
-							<h3 class="expensive_purchase_brand_item_h4">  รับซื้อ Louis Vuitton </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/monogram.webp" alt=" รับซื้อหลุยส์ วิตตอง"> </div>
+							<h3 class="expensive_purchase_brand_item_h4">  รับซื้อหลุยส์ วิตตอง </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./harrywinston/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lily.webp" alt="รับซื้อ Harry Winston"> </div>
@@ -212,16 +216,16 @@
 							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Tiffany & Co. </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./cartier/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="คาร์เทียร์ซื้อ"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> คาร์เทียร์ซื้อ </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/lovering.webp" alt="รับซื้อคาร์เทียร์"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อคาร์เทียร์ </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./bvlgari/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/bzeroone.webp" alt="รับซื้อ Bvlgari"> </div>
 							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Bvlgari </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./gucci/" class="img__link">
-							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="รับซื้อ Gucci"> </div>
-							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อ Gucci </h3>
+							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ggmarmont.webp" alt="รับซื้อกุชชี่"> </div>
+							<h3 class="expensive_purchase_brand_item_h4"> รับซื้อกุชชี่ </h3>
 						</a> </div>
 					<div class="expensive_purchase_brand_itemwrap"> <a href="./dior/" class="img__link">
 							<div class="expensive_purchase_brand_itembox img"> <img src="../images/brand/ladydior.webp" alt="รับซื้อ Dior"> </div>
@@ -251,8 +255,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/en_birkin.webp" alt="รับซื้อ Hermès"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Hermès
+												src="../images/brand/en_birkin.webp" alt="รับซื้อเฮอร์เมส"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อเฮอร์เมส
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -263,8 +267,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/matelasse.webp" alt="รับซื้อ Chanel"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Chanel
+												src="../images/brand/matelasse.webp" alt="รับซื้อชาเนล"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อชาเนล
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -275,8 +279,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/monogram.webp" alt=" รับซื้อ Louis Vuitton"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand"> รับซื้อ Louis Vuitton
+												src="../images/brand/monogram.webp" alt=" รับซื้อหลุยส์ วิตตอง"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand"> รับซื้อหลุยส์ วิตตอง
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -324,8 +328,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/lovering.webp" alt="คาร์เทียร์ซื้อ"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">คาร์เทียร์ซื้อ
+												src="../images/brand/lovering.webp" alt="รับซื้อคาร์เทียร์"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อคาร์เทียร์
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -348,8 +352,8 @@
 									class="img__link">
 									<div class="renew_2024_expensive_purchase_itembox">
 										<div class="renew_2024_expensive_purchase_item_image"> <img
-												src="../images/brand/ggmarmont.webp" alt="รับซื้อ Gucci"> </div>
-										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อ Gucci
+												src="../images/brand/ggmarmont.webp" alt="รับซื้อกุชชี่"> </div>
+										<h3 class="renew_2024_expensive_purchase_item_brand">รับซื้อกุชชี่
 											<div class="renew_2024_expensive_purchase_item_arrow">
 												<div></div>
 											</div>
@@ -393,7 +397,8 @@
 									</div>
 								</a> </div>
 						</div>
-						<div class="btn__wrap btn__red"> <a href="./brand_list/" class="gtm-list-brand-all">รายชื่อยี่ห้ออื่น ๆ ที่ซื้อ</a> </div>
+						<div class="btn__wrap btn__red"> <a href="./brand_list/"
+								class="gtm-list-brand-all">รายชื่อยี่ห้ออื่น ๆ ที่ซื้อ</a> </div>
 					</div>
 				</div>
 			</div>
@@ -402,7 +407,7 @@
 			<section>
 				<div class="titleMain titleMain--wrapper">
 					<h2 class="titleMain--main">
-					ราคาอ้างอิงซื้อสินค้าแบรนด์เนม
+						ราคาอ้างอิงซื้อสินค้าแบรนด์เนม
 					</h2>
 					<div class="titleMain--lead">
 						<p></p>
@@ -1529,13 +1534,13 @@
 
 			<div class="renew_2024_enhance_model_title is-sp">
 				<h2 class="titleHeading" style="color:white;">
-				เสริมความแข็งแกร่งโมเดลการซื้อผลิตภัณฑ์แบรนด์เนม
+					เสริมความแข็งแกร่งโมเดลการซื้อผลิตภัณฑ์แบรนด์เนม
 				</h2>
 			</div>
 			<section class="enhanced_additional_wrap">
 				<div class="titleMain titleMain--wrapper is-pc">
 					<h2 class="titleHeading">
-					เสริมความแข็งแกร่งโมเดลการซื้อผลิตภัณฑ์แบรนด์เนม
+						เสริมความแข็งแกร่งโมเดลการซื้อผลิตภัณฑ์แบรนด์เนม
 					</h2>
 				</div>
 				<div class="enhanced_additional_tabbox">
@@ -1811,23 +1816,31 @@
 			<section style="margin-top:0px !important">
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">ราคาสินค้าแบรนด์เนมกำลังเพิ่มขึ้น</h3>
-					<div class="wd_brandinfo_story">ในช่วงไม่กี่ปีที่ผ่านมา แบรนด์ต่างๆ มากมายได้ปรับราคาขายปลีกขึ้นเนื่องจากปัจจัยต่างๆ เช่น ต้นทุนวัตถุดิบที่สูงขึ้น การเปลี่ยนแปลงของสถานการณ์โลก และค่าเงินเยนที่อ่อนค่าลง<br>
+					<div class="wd_brandinfo_story">ในช่วงไม่กี่ปีที่ผ่านมา แบรนด์ต่างๆ
+						มากมายได้ปรับราคาขายปลีกขึ้นเนื่องจากปัจจัยต่างๆ เช่น ต้นทุนวัตถุดิบที่สูงขึ้น
+						การเปลี่ยนแปลงของสถานการณ์โลก และค่าเงินเยนที่อ่อนค่าลง<br>
 						<br>
-						เนื่องจากการเพิ่มราคาขายปลีกส่งผลโดยตรงต่อการเพิ่มราคาซื้อ ดังนั้น ตอนนี้จึงเป็นเวลาที่จะขายสินค้าที่มีชื่อแบรนด์
+						เนื่องจากการเพิ่มราคาขายปลีกส่งผลโดยตรงต่อการเพิ่มราคาซื้อ ดังนั้น
+						ตอนนี้จึงเป็นเวลาที่จะขายสินค้าที่มีชื่อแบรนด์
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">ยิ่งเก่าราคาซื้อก็มักจะลดลง
 					</h3>
-					<div class="wd_brandinfo_story">โดยทั่วไปแล้ว ผลิตภัณฑ์ที่มีตราสินค้าจะสูญเสียมูลค่าลงเมื่อเวลาผ่านไปหลังจากการเปิดตัว ดังนั้นจึงแนะนำให้ขายมันในขณะที่มันยังมีมูลค่าอยู่<br>
+					<div class="wd_brandinfo_story">โดยทั่วไปแล้ว
+						ผลิตภัณฑ์ที่มีตราสินค้าจะสูญเสียมูลค่าลงเมื่อเวลาผ่านไปหลังจากการเปิดตัว
+						ดังนั้นจึงแนะนำให้ขายมันในขณะที่มันยังมีมูลค่าอยู่<br>
 						<br>
 						หากคุณกำลังคิดที่จะขายสินค้าแบรนด์เนม โปรดติดต่อ Otakaraya
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">ความต้องการสินค้าแบรนด์เนมมือสองกำลังเพิ่มขึ้น</h3>
-					<div class="wd_brandinfo_story">ในช่วงไม่กี่ปีที่ผ่านมา ความต้องการกระเป๋าดีไซเนอร์มือสองเพิ่มขึ้นทั่วโลก สินค้าญี่ปุ่นมือสองได้รับความนิยมเป็นพิเศษในต่างประเทศ
-					ความต้องการสินค้าแบรนด์เนมมือสองก็เพิ่มสูงขึ้นเช่นกัน เนื่องจากราคาขายปลีกของสินค้าแบรนด์ใหม่ก็เพิ่มสูงขึ้นจากภาวะเงินเฟ้อ.</div>
+					<div class="wd_brandinfo_story">ในช่วงไม่กี่ปีที่ผ่านมา
+						ความต้องการกระเป๋าดีไซเนอร์มือสองเพิ่มขึ้นทั่วโลก
+						สินค้าญี่ปุ่นมือสองได้รับความนิยมเป็นพิเศษในต่างประเทศ
+						ความต้องการสินค้าแบรนด์เนมมือสองก็เพิ่มสูงขึ้นเช่นกัน
+						เนื่องจากราคาขายปลีกของสินค้าแบรนด์ใหม่ก็เพิ่มสูงขึ้นจากภาวะเงินเฟ้อ.</div>
 				</div>
 			</section>
 			<h2 class="renew_2024_titlesub">
@@ -1841,18 +1854,23 @@
 			<section style="margin-top:0px !important">
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">รุ่นคลาสสิคที่ได้รับความนิยม</h3>
-					<div class="wd_brandinfo_story">รุ่นคลาสสิกเป็นที่ชื่นชอบไม่ว่าจะตามกระแสหรือตามวัยใด จึงมีความต้องการที่มั่นคง
-					ด้วยเหตุนี้ รุ่นมาตรฐานจึงได้รับความนิยมแม้แต่ในตลาดรถมือสอง และหากคุณนำรถเหล่านั้นไปประเมินราคา ก็มีโอกาสสูงที่รถเหล่านั้นจะถูกซื้อไปในราคาสูง</div>
+					<div class="wd_brandinfo_story">รุ่นคลาสสิกเป็นที่ชื่นชอบไม่ว่าจะตามกระแสหรือตามวัยใด
+						จึงมีความต้องการที่มั่นคง
+						ด้วยเหตุนี้ รุ่นมาตรฐานจึงได้รับความนิยมแม้แต่ในตลาดรถมือสอง และหากคุณนำรถเหล่านั้นไปประเมินราคา
+						ก็มีโอกาสสูงที่รถเหล่านั้นจะถูกซื้อไปในราคาสูง</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">รุ่นลิมิเต็ดอิดิชั่นหายากและสีลิมิเต็ดอิดิชั่น</h3>
-					<div class="wd_brandinfo_story">รุ่นจำนวนจำกัด สีจำนวนจำกัด ผลิตภัณฑ์จากความร่วมมือ และรุ่นอื่นๆ ที่มีจำนวนการผลิตจำกัด ล้วนมีมูลค่ามหาศาล
-					หากหาซื้อได้ยาก ความต้องการในตลาดมือสองก็จะสูงตามไปด้วย ดังนั้นคุณสามารถขายได้ในราคาสูงได้เลย</div>
+					<div class="wd_brandinfo_story">รุ่นจำนวนจำกัด สีจำนวนจำกัด ผลิตภัณฑ์จากความร่วมมือ และรุ่นอื่นๆ
+						ที่มีจำนวนการผลิตจำกัด ล้วนมีมูลค่ามหาศาล
+						หากหาซื้อได้ยาก ความต้องการในตลาดมือสองก็จะสูงตามไปด้วย ดังนั้นคุณสามารถขายได้ในราคาสูงได้เลย
+					</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">มีรอยขีดข่วนเล็กน้อยหรือมีร่องรอยการใช้งาน สภาพดี</h3>
-					<div class="wd_brandinfo_story">สภาพของสินค้าจะมีผลอย่างมากต่อราคาประเมิน สินค้าที่ไร้รอยขีดข่วน รอยเปื้อน หรือร่องรอยการใช้งาน สามารถขายได้ในราคาสูงกว่า
-					เมื่อใช้งานหรือจัดเก็บสินค้าแบรนด์เนม ควรระวังอย่าให้สภาพสินค้าเสื่อมลง.</div>
+					<div class="wd_brandinfo_story">สภาพของสินค้าจะมีผลอย่างมากต่อราคาประเมิน สินค้าที่ไร้รอยขีดข่วน
+						รอยเปื้อน หรือร่องรอยการใช้งาน สามารถขายได้ในราคาสูงกว่า
+						เมื่อใช้งานหรือจัดเก็บสินค้าแบรนด์เนม ควรระวังอย่าให้สภาพสินค้าเสื่อมลง.</div>
 				</div>
 			</section>
 			<h2 class="renew_2024_titlesub">
@@ -1866,34 +1884,43 @@
 			<section style="margin-top:0px !important">
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">การบำรุงรักษาที่ง่ายดาย</h3>
-					<div class="wd_brandinfo_story">ก่อนการประเมินโปรดทำความสะอาดอย่างง่าย ๆ เช่น การขจัดสิ่งสกปรกออก.<br>
+					<div class="wd_brandinfo_story">ก่อนการประเมินโปรดทำความสะอาดอย่างง่าย ๆ เช่น
+						การขจัดสิ่งสกปรกออก.<br>
 						<br>
-						อย่างไรก็ตาม ขึ้นอยู่กับว่าคุณทำอย่างไร อาจก่อให้เกิดความเสียหายได้ อย่าลืมใช้วิธีการที่เหมาะสมกับวัสดุของรายการและยึดตามสิ่งที่คุณทำได้อย่างสบายใจ.
+						อย่างไรก็ตาม ขึ้นอยู่กับว่าคุณทำอย่างไร อาจก่อให้เกิดความเสียหายได้
+						อย่าลืมใช้วิธีการที่เหมาะสมกับวัสดุของรายการและยึดตามสิ่งที่คุณทำได้อย่างสบายใจ.
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">หากมีอุปกรณ์เสริมใด ๆ ให้รวบรวมและส่งมาเพื่อการประเมิน</h3>
-					<div class="wd_brandinfo_story">หากคุณมีกล่อง ถุง บัตรรับประกัน บัตรรับประกัน ฯลฯ ที่มาพร้อมกับสินค้าแบรนด์ดังกล่าวเมื่อคุณซื้อ โปรดรวบรวมทุกสิ่งเข้าด้วยกันและนำมาให้ประเมินราคา<br>
+					<div class="wd_brandinfo_story">หากคุณมีกล่อง ถุง บัตรรับประกัน บัตรรับประกัน ฯลฯ
+						ที่มาพร้อมกับสินค้าแบรนด์ดังกล่าวเมื่อคุณซื้อ
+						โปรดรวบรวมทุกสิ่งเข้าด้วยกันและนำมาให้ประเมินราคา<br>
 						<br>
-						ที่ Otakaraya เรายังคงเสนอราคาสูงให้กับสินค้าของคุณได้ แม้ว่าจะไม่ได้มีอุปกรณ์เสริมมาให้ก็ตาม ดังนั้นจึงไม่จำเป็น
+						ที่ Otakaraya เรายังคงเสนอราคาสูงให้กับสินค้าของคุณได้ แม้ว่าจะไม่ได้มีอุปกรณ์เสริมมาให้ก็ตาม
+						ดังนั้นจึงไม่จำเป็น
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">รับประเมินราคาสินค้าหลายยี่ห้อในเวลาเดียวกัน</h3>
-					<div class="wd_brandinfo_story">ที่ Otakaraya เราเพิ่มราคาซื้อด้วยการประเมินราคาสินค้าหลายยี่ห้อพร้อมกัน (การประเมินพร้อมกัน)
-					กรุณานำสิ่งของที่ไม่จำเป็น เช่น กระเป๋า สร้อยคอ แหวน และต่างหู มาด้วย.</div>
+					<div class="wd_brandinfo_story">ที่ Otakaraya
+						เราเพิ่มราคาซื้อด้วยการประเมินราคาสินค้าหลายยี่ห้อพร้อมกัน (การประเมินพร้อมกัน)
+						กรุณานำสิ่งของที่ไม่จำเป็น เช่น กระเป๋า สร้อยคอ แหวน และต่างหู มาด้วย.</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">ใช้แคมเปญเพื่อเพิ่มมูลค่าของคุณ</h3>
 					<div class="wd_brandinfo_story">เราขอแนะนำให้ใช้ประโยชน์จากแคมเปญที่เพิ่มมูลค่าการประเมินด้วย.<br>
 						<br>
 						ที่ Otakaraya เรามีแคมเปญการซื้อที่ไม่ซ้ำใครมากมาย
-หากคุณใช้ประโยชน์จากแคมเปญที่ปรับแต่งให้เหมาะกับสินค้าที่คุณซื้อโดยเฉพาะ คุณอาจได้รับราคาที่สูงขึ้นสำหรับสินค้าเหล่านั้น
+						หากคุณใช้ประโยชน์จากแคมเปญที่ปรับแต่งให้เหมาะกับสินค้าที่คุณซื้อโดยเฉพาะ
+						คุณอาจได้รับราคาที่สูงขึ้นสำหรับสินค้าเหล่านั้น
 					</div>
 				</div>
 				<div class="wd_brandinfo_item">
 					<h3 class="wd_brandinfo_title">ให้การประเมินค่าโอตาคารายะ</h3>
-					<div class="wd_brandinfo_story">Otakaraya เป็นร้านค้าเฉพาะทางด้านจัดซื้อ ซึ่งมีสินค้าจัดซื้อหลากหลายประเภท เรามีผู้ประเมินที่มีประสบการณ์และเป็นมืออาชีพมากมาย และเรามีประวัติยาวนานในการให้ราคาซื้อที่สูง.<br>
+					<div class="wd_brandinfo_story">Otakaraya เป็นร้านค้าเฉพาะทางด้านจัดซื้อ
+						ซึ่งมีสินค้าจัดซื้อหลากหลายประเภท เรามีผู้ประเมินที่มีประสบการณ์และเป็นมืออาชีพมากมาย
+						และเรามีประวัติยาวนานในการให้ราคาซื้อที่สูง.<br>
 						<br>
 						กรุณานำสินค้าแบรนด์เนมที่ไม่ต้องการมาที่ Otakaraya
 					</div>
@@ -1982,23 +2009,23 @@
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/e71016dd6f2f0f35db2ffcb2d0d09203.webp"
-									alt="มีคราบภายใน"></p>
+							<p><img src="../images/brand/e71016dd6f2f0f35db2ffcb2d0d09203.webp" alt="มีคราบภายใน"></p>
 						</div>
 						<p class="text text--center">มีคราบภายใน</p>
 					</div>
 					<div class="col">
 						<div class="img">
-							<p><img src="../images/brand/984200ea113b94d27d2ad9b86085a99d.webp"
-									alt="หนังฟอกสกปรก"></p>
+							<p><img src="../images/brand/984200ea113b94d27d2ad9b86085a99d.webp" alt="หนังฟอกสกปรก"></p>
 						</div>
 						<p class="text text--center">หนังฟอกสกปรก</p>
 					</div>
 				</div>
 			</section>
 			<a href="/watch/">
-				<img class="bar_brandwatch_purchase is-pc" src="../images/brand/ENbrand_watch_bnr.webp" alt="นาฬิกาดีไซน์เนอร์">
-				<img class="bar_brandwatch_purchase is-sp" src="../images/brand/EN_brand_watch_bnr_sp.webp" alt="นาฬิกาดีไซน์เนอร์">
+				<img class="bar_brandwatch_purchase is-pc" src="../images/brand/ENbrand_watch_bnr.webp"
+					alt="นาฬิกาดีไซน์เนอร์">
+				<img class="bar_brandwatch_purchase is-sp" src="../images/brand/EN_brand_watch_bnr_sp.webp"
+					alt="นาฬิกาดีไซน์เนอร์">
 			</a>
 			<section class="otakaraya_purchase_goods">
 				<div class="titleMain titleMain--wrapper">
@@ -2019,9 +2046,9 @@
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/daiya/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/3_daiya.webp" alt="รับซื้อเพชรและอัญมณี"></p>
+								<p><img src="../images/brand/3_daiya.webp" alt="รับซื้อเพชร / เครื่องประดับ"></p>
 							</div>
-							<p class="text text--center">รับซื้อเพชรและอัญมณี</p>
+							<p class="text text--center">รับซื้อเพชร / เครื่องประดับ</p>
 						</a> </div>
 					<div class="col"> <a href="../brand-tokei/index.html" class="img__link">
 							<div class="img">
@@ -2049,15 +2076,15 @@
 						</a> </div>
 					<div class="col"> <a href="./hermes/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/19_hermes.webp" alt="รับซื้อ Hermès"></p>
+								<p><img src="../images/brand/19_hermes.webp" alt="รับซื้อเฮอร์เมส"></p>
 							</div>
-							<p class="text text--center">รับซื้อ Hermès</p>
+							<p class="text text--center">รับซื้อเฮอร์เมส</p>
 						</a> </div>
 					<div class="col"> <a href="./chanel/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/20_chanel.webp" alt="รับซื้อ Chanel"></p>
+								<p><img src="../images/brand/20_chanel.webp" alt="รับซื้อชาเนล"></p>
 							</div>
-							<p class="text text--center">รับซื้อ Chanel</p>
+							<p class="text text--center">รับซื้อชาเนล</p>
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/kitte/" class="img__link">
 							<div class="img">
@@ -2092,7 +2119,8 @@
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/order_medal/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/9_kunsyo_medaru.webp" alt="การซื้อเหรียญและเครื่องราชอิสริยาภรณ์">
+								<p><img src="../images/brand/9_kunsyo_medaru.webp"
+										alt="การซื้อเหรียญและเครื่องราชอิสริยาภรณ์">
 								</p>
 							</div>
 							<p class="text text--center">การซื้อเหรียญและเครื่องราชอิสริยาภรณ์</p>
@@ -2117,8 +2145,7 @@
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/item/picture02/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/15_kaiga.webp"
-										alt="จัดซื้อภาพวาด ภาพแขวน และงานศิลปะ"></p>
+								<p><img src="../images/brand/15_kaiga.webp" alt="จัดซื้อภาพวาด ภาพแขวน และงานศิลปะ"></p>
 							</div>
 							<p class="text text--center">จัดซื้อภาพวาด ภาพแขวน และงานศิลปะ</p>
 						</a> </div>
@@ -2130,8 +2157,7 @@
 						</a> </div>
 					<div class="col"> <a href="https://www.otakaraya.jp/g-ticket/" class="img__link">
 							<div class="img">
-								<p><img src="../images/brand/24_kinken.webp"
-										alt="การซื้อบัตรกำนัลและบัตรโทรศัพท์"></p>
+								<p><img src="../images/brand/24_kinken.webp" alt="การซื้อบัตรกำนัลและบัตรโทรศัพท์"></p>
 							</div>
 							<p class="text text--center">การซื้อบัตรกำนัลและบัตรโทรศัพท์</p>
 						</a> </div>
@@ -2188,41 +2214,50 @@
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">แบตเตอรี่นาฬิกาของฉันหมด คุณยังซื้อมันได้ไหม? </dt>
-							<dd class="qa__list__a">ใช่ เราสามารถซื้อได้ นอกจากนี้ เรายังมีประสบการณ์ในการซื้อนาฬิกาอัตโนมัติและนาฬิกาแบบใช้แบตเตอรี่ที่หยุดทำงานมาแล้วอีกด้วย.</dd>
+							<dd class="qa__list__a">ใช่ เราสามารถซื้อได้ นอกจากนี้
+								เรายังมีประสบการณ์ในการซื้อนาฬิกาอัตโนมัติและนาฬิกาแบบใช้แบตเตอรี่ที่หยุดทำงานมาแล้วอีกด้วย.
+							</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">สามารถซื้อเกินราคาป้ายได้ไหมคะ? </dt>
-							<dd class="qa__list__a">เราอาจซื้อในราคาสูงกว่าราคาขายปลีกขึ้นอยู่กับสินค้า แต่สินค้าแบรนด์เนมหลายชนิดก็มีแนวโน้มว่ามูลค่าจะลดลงเมื่อเวลาผ่านไป
-							ถ้าจะไม่ใช้ก็โปรดพิจารณาขายโดยเร็วที่สุด.</dd>
+							<dd class="qa__list__a">เราอาจซื้อในราคาสูงกว่าราคาขายปลีกขึ้นอยู่กับสินค้า
+								แต่สินค้าแบรนด์เนมหลายชนิดก็มีแนวโน้มว่ามูลค่าจะลดลงเมื่อเวลาผ่านไป
+								ถ้าจะไม่ใช้ก็โปรดพิจารณาขายโดยเร็วที่สุด.</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
-							<dt class="qa__list__q">ฉันสามารถยกเลิกรายการที่ฉันได้ร้องขอการประเมินราคาไว้ได้หรือไม่ </dt>
-							<dd class="qa__list__a">ใช่มันเป็นไปได้. อย่างไรก็ตาม โปรดทราบว่าเราไม่สามารถยอมรับการคืนสินค้าหลังจากการซื้อเสร็จสิ้นแล้ว</dd>
+							<dt class="qa__list__q">ฉันสามารถยกเลิกรายการที่ฉันได้ร้องขอการประเมินราคาไว้ได้หรือไม่
+							</dt>
+							<dd class="qa__list__a">ใช่มันเป็นไปได้. อย่างไรก็ตาม
+								โปรดทราบว่าเราไม่สามารถยอมรับการคืนสินค้าหลังจากการซื้อเสร็จสิ้นแล้ว</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">คุณสามารถซื้อแบรนด์ที่ไม่มีอยู่ในเว็บไซต์ของคุณได้หรือไม่? </dt>
-							<dd class="qa__list__a">แน่นอนเราสามารถซื้อมันได้ แม้ว่าคุณต้องการเพียงรายการเดียว โปรดอย่าลังเลที่จะติดต่อเรา</dd>
+							<dd class="qa__list__a">แน่นอนเราสามารถซื้อมันได้ แม้ว่าคุณต้องการเพียงรายการเดียว
+								โปรดอย่าลังเลที่จะติดต่อเรา</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">สามารถซื้อสินค้าที่ซื้อมานานแล้วหรือมีสภาพไม่ดีได้หรือไม่?</dt>
-							<dd class="qa__list__a">ใช่มันเป็นไปได้. เรามีประสบการณ์ในการซื้อสินค้าที่บริษัทอื่นไม่สามารถซื้อได้ด้วยเหตุผล เช่น "เก่า" "สกปรก" หรือ "มีสีซีด"
-							กรุณาอย่าลังเลที่จะติดต่อเรา</dd>
+							<dd class="qa__list__a">ใช่มันเป็นไปได้.
+								เรามีประสบการณ์ในการซื้อสินค้าที่บริษัทอื่นไม่สามารถซื้อได้ด้วยเหตุผล เช่น "เก่า"
+								"สกปรก" หรือ "มีสีซีด"
+								กรุณาอย่าลังเลที่จะติดต่อเรา</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">การประเมินสินค้าในร้านใช้เวลานานแค่ไหน?
 							</dt>
-							<dd class="qa__list__a">หากคุณนำสินค้ามาเพียงชิ้นเดียว จะใช้เวลาประมาณ 5 ถึง 15 นาที แต่ก็อาจแตกต่างกันไป ขึ้นอยู่กับสินค้าและปริมาณที่คุณนำเข้ามา
-							หากร้านค้ามีคนหนาแน่น คุณอาจต้องรอ ดังนั้นเราขอแนะนำให้คุณพิจารณาทำการจอง</dd>
+							<dd class="qa__list__a">หากคุณนำสินค้ามาเพียงชิ้นเดียว จะใช้เวลาประมาณ 5 ถึง 15 นาที
+								แต่ก็อาจแตกต่างกันไป ขึ้นอยู่กับสินค้าและปริมาณที่คุณนำเข้ามา
+								หากร้านค้ามีคนหนาแน่น คุณอาจต้องรอ ดังนั้นเราขอแนะนำให้คุณพิจารณาทำการจอง</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
@@ -2234,43 +2269,49 @@
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">สามารถซื้อสินค้าได้ตั้งแต่อายุเท่าไร? </dt>
-							<dd class="qa__list__a">ผู้ที่มีอายุเกิน 20 ปีสามารถสมัครได้ หากคุณมีอายุ 18 หรือ 19 ปี คุณจะต้องมีแบบฟอร์มความยินยอมหรือหนังสือมอบอำนาจ
-							เราไม่รับลูกค้าที่มีอายุต่ำกว่า 18 ปี.</dd>
+							<dd class="qa__list__a">ผู้ที่มีอายุเกิน 20 ปีสามารถสมัครได้ หากคุณมีอายุ 18 หรือ 19 ปี
+								คุณจะต้องมีแบบฟอร์มความยินยอมหรือหนังสือมอบอำนาจ
+								เราไม่รับลูกค้าที่มีอายุต่ำกว่า 18 ปี.</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">คุณซื้อของวินเทจเช่นเครื่องประดับและกระเป๋าหรือเปล่า? </dt>
-							<dd class="qa__list__a">หากสินค้าไม่ใช่สินค้าแบรนด์เนมและมีรอยขีดข่วนหรือคราบสกปรกที่ยากต่อการซ่อมแซม เราอาจปฏิเสธการซื้อได้
-							อย่างไรก็ตามสินค้าบางรายการอาจมีราคาที่สูงกว่า โปรดติดต่อเราเพื่อขอข้อมูลเพิ่มเติม</dd>
+							<dd class="qa__list__a">
+								หากสินค้าไม่ใช่สินค้าแบรนด์เนมและมีรอยขีดข่วนหรือคราบสกปรกที่ยากต่อการซ่อมแซม
+								เราอาจปฏิเสธการซื้อได้
+								อย่างไรก็ตามสินค้าบางรายการอาจมีราคาที่สูงกว่า โปรดติดต่อเราเพื่อขอข้อมูลเพิ่มเติม</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">สินค้ามีรอยขีดข่วนและคราบ ควรทำความสะอาดก่อนส่งซ่อมหรือไม่ </dt>
-							<dd class="qa__list__a">ขึ้นอยู่กับว่าคุณทำความสะอาดอย่างไร อาจส่งผลเชิงลบต่อมูลค่าประเมินได้ กรุณาเอามาให้เป็นแบบนั้น.</dd>
+							<dd class="qa__list__a">ขึ้นอยู่กับว่าคุณทำความสะอาดอย่างไร
+								อาจส่งผลเชิงลบต่อมูลค่าประเมินได้ กรุณาเอามาให้เป็นแบบนั้น.</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">จำนวนเงินที่ประเมินจะพิจารณาอย่างไร? </dt>
-							<dd class="qa__list__a">เราจะประเมินราคาตลาด, รูปแบบ, ขนาด, สภาพ ฯลฯ ของสินค้าอย่างครอบคลุมและเสนอราคาให้กับคุณ
-							โปรดดูราคาซื้อสินค้าแบรนด์ดังซึ่งแสดงอยู่ที่ด้านบนของหน้า</dd>
+							<dd class="qa__list__a">เราจะประเมินราคาตลาด, รูปแบบ, ขนาด, สภาพ ฯลฯ
+								ของสินค้าอย่างครอบคลุมและเสนอราคาให้กับคุณ
+								โปรดดูราคาซื้อสินค้าแบรนด์ดังซึ่งแสดงอยู่ที่ด้านบนของหน้า</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">มีโอกาสที่ราคาประเมินทางโทรศัพท์จะแตกต่างจากราคาซื้อหรือไม่? </dt>
 							<dd class="qa__list__a">หากคุณติดต่อเราทางโทรศัพท์ เราจะคำนวณค่าประมาณตามข้อมูลที่คุณให้มา
-ดังนั้นมูลค่าที่แท้จริงของรายการอาจเปลี่ยนแปลงได้เมื่อมีการประเมิน
-หากคุณต้องการราคาที่แน่นอน โปรดใช้บริการ "ซื้อในสถานที่" หรือ "ซื้อในร้าน" ของเรา</dd>
+								ดังนั้นมูลค่าที่แท้จริงของรายการอาจเปลี่ยนแปลงได้เมื่อมีการประเมิน
+								หากคุณต้องการราคาที่แน่นอน โปรดใช้บริการ "ซื้อในสถานที่" หรือ "ซื้อในร้าน" ของเรา</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">ฉันกำลังคิดที่จะขายมัน แต่คุณช่วยประมาณราคาให้ฉันหน่อยได้ไหม?
 							</dt>
-							<dd class="qa__list__a">ใช่ การประเมินเป็นไปได้ เรามอบการประเมินฟรี ดังนั้นโปรดอย่าลังเลที่จะติดต่อเรา
+							<dd class="qa__list__a">ใช่ การประเมินเป็นไปได้ เรามอบการประเมินฟรี
+								ดังนั้นโปรดอย่าลังเลที่จะติดต่อเรา
 							</dd>
 						</dl>
 					</div>
@@ -2278,29 +2319,35 @@
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">คุณสามารถประเมินแค่รายการเดียวได้ไหม
 							</dt>
-							<dd class="qa__list__a">ใช่ การประเมินเป็นไปได้ หากคุณนำสินค้ามาหลายรายการ เราสามารถให้การประเมินราคาเป็นกลุ่มเพื่อลดราคาได้</dd>
+							<dd class="qa__list__a">ใช่ การประเมินเป็นไปได้ หากคุณนำสินค้ามาหลายรายการ
+								เราสามารถให้การประเมินราคาเป็นกลุ่มเพื่อลดราคาได้</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">ทำไมแบรนด์ถึงตกราคายากและขายได้ราคาสูง? </dt>
 							<dd class="qa__list__a">เนื่องจากอุปทานไม่เป็นไปตามอุปสงค์
-แม้ว่าสินค้าแบรนด์เนมจะมีปริมาณการจำหน่ายที่เหมาะสมเมื่อเทียบกับสินค้าแบรนด์อื่นๆ แต่ก็มักจะหาซื้อได้ยากเนื่องจากมีความต้องการสูง
-โดยปกติราคาก็จะสูงเช่นกันซึ่งจะมีผลกระทบอย่างมากต่อการประเมิน</dd>
+								แม้ว่าสินค้าแบรนด์เนมจะมีปริมาณการจำหน่ายที่เหมาะสมเมื่อเทียบกับสินค้าแบรนด์อื่นๆ
+								แต่ก็มักจะหาซื้อได้ยากเนื่องจากมีความต้องการสูง
+								โดยปกติราคาก็จะสูงเช่นกันซึ่งจะมีผลกระทบอย่างมากต่อการประเมิน</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">แบรนด์สามารถขายได้สูงแค่ไหน?
 							</dt>
-							<dd class="qa__list__a">แม้ว่าจะมีความผันผวนขึ้นอยู่กับราคาตลาดที่ซื้อล่าสุด แต่แบรนด์ต่างๆ ก็มีมูลค่าสินทรัพย์ที่สูงมาก ดังนั้นราคาจึงตกได้ยาก.</dd>
+							<dd class="qa__list__a">แม้ว่าจะมีความผันผวนขึ้นอยู่กับราคาตลาดที่ซื้อล่าสุด แต่แบรนด์ต่างๆ
+								ก็มีมูลค่าสินทรัพย์ที่สูงมาก ดังนั้นราคาจึงตกได้ยาก.</dd>
 						</dl>
 					</div>
 					<div class="qa__list js__more--item3">
 						<dl class="qa__list__inner">
 							<dt class="qa__list__q">ถึงเวลาขายแบรนด์ของคุณเมื่อไหร่? </dt>
-							<dd class="qa__list__a">บางครั้งเวลาในการขายแบรนด์มาเร็ว และบางครั้งมูลค่าก็เพิ่มขึ้นจากการรอเป็นเวลานาน ดังนั้นจึงเป็นเรื่องยากที่จะบอกว่าเวลาไหนดีที่สุดที่จะขาย
-							หากคุณต้องการเก็บไว้เป็นเวลานานแล้วจึงขายได้ คุณจะต้องรักษาให้อยู่ในสภาพดี ดังนั้นเราขอแนะนำให้คุณใช้วิธีการจัดเก็บที่เหมาะสมและบำรุงรักษาตามปกติ</dd>
+							<dd class="qa__list__a">บางครั้งเวลาในการขายแบรนด์มาเร็ว
+								และบางครั้งมูลค่าก็เพิ่มขึ้นจากการรอเป็นเวลานาน
+								ดังนั้นจึงเป็นเรื่องยากที่จะบอกว่าเวลาไหนดีที่สุดที่จะขาย
+								หากคุณต้องการเก็บไว้เป็นเวลานานแล้วจึงขายได้ คุณจะต้องรักษาให้อยู่ในสภาพดี
+								ดังนั้นเราขอแนะนำให้คุณใช้วิธีการจัดเก็บที่เหมาะสมและบำรุงรักษาตามปกติ</dd>
 						</dl>
 					</div>
 				</div>
@@ -2335,7 +2382,8 @@
 										<table>
 											<tbody>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">งานอดิเรก: </span> </th>
+													<th class="sitetextcolor"> <span class="noto">งานอดิเรก: </span>
+													</th>
 													<td><span class="noto">ดูเบสบอล </span></td>
 												</tr>
 												<tr>
@@ -2349,7 +2397,8 @@
 													<td><span class="noto">Hermes</span></td>
 												</tr>
 												<tr>
-													<th class="sitetextcolor"> <span class="noto">ตัวอย่างการซื้อ: </span> </th>
+													<th class="sitetextcolor"> <span class="noto">ตัวอย่างการซื้อ:
+														</span> </th>
 													<td><span class="noto">Birkin Himalaya ที่ผ่านมา</span></td>
 												</tr>
 											</tbody>
@@ -2357,12 +2406,19 @@
 									</li>
 								</ul>
 							</div>
-							<p class="shop-leader_text"> <span class="noto">ที่ Otakara-ya เราประเมินสินค้าแบรนด์เนมหลายพันรายการทุกวัน ปัจจุบัน Otakara-ya มีช่องทางการขายในต่างประเทศ ทำให้สามารถซื้อสินค้าได้ทั่วโลก
-							ปัจจุบันเงินเยนอ่อนค่า ดังนั้นการขายในต่างประเทศจึงสามารถซื้อได้ในราคาที่สูงขึ้นกว่าเดิม เรามั่นใจว่าลูกค้าจะพึงพอใจ ดังนั้น กรุณาใช้ Otakaraya<br>
+							<p class="shop-leader_text"> <span class="noto">ที่ Otakara-ya
+									เราประเมินสินค้าแบรนด์เนมหลายพันรายการทุกวัน ปัจจุบัน Otakara-ya
+									มีช่องทางการขายในต่างประเทศ ทำให้สามารถซื้อสินค้าได้ทั่วโลก
+									ปัจจุบันเงินเยนอ่อนค่า
+									ดังนั้นการขายในต่างประเทศจึงสามารถซื้อได้ในราคาที่สูงขึ้นกว่าเดิม
+									เรามั่นใจว่าลูกค้าจะพึงพอใจ ดังนั้น กรุณาใช้ Otakaraya<br>
 									<br>
-									ที่ Otakaraya เราไม่เพียงแต่ซื้อสินค้าใหม่และไม่ได้ใช้เท่านั้น แต่ยังซื้อสินค้าในสภาพใด ๆ รวมถึงสินค้าที่ซื้อเมื่อนานมาแล้วและสินค้าที่มีรอยขีดข่วนหรือหลุดลุ่ย
-ที่จริงแล้ว มีหลายกรณีที่สินค้าที่ซื้อเมื่อ 10 ปีที่แล้วถูกขายในราคาที่สูงกว่าตอนที่ซื้อ
-หากคุณมีสิ่งของใด ๆ ที่นอนเฉยๆ ที่บ้าน โปรดติดต่อเรา.</span> </p>
+									ที่ Otakaraya เราไม่เพียงแต่ซื้อสินค้าใหม่และไม่ได้ใช้เท่านั้น
+									แต่ยังซื้อสินค้าในสภาพใด ๆ
+									รวมถึงสินค้าที่ซื้อเมื่อนานมาแล้วและสินค้าที่มีรอยขีดข่วนหรือหลุดลุ่ย
+									ที่จริงแล้ว มีหลายกรณีที่สินค้าที่ซื้อเมื่อ 10
+									ปีที่แล้วถูกขายในราคาที่สูงกว่าตอนที่ซื้อ
+									หากคุณมีสิ่งของใด ๆ ที่นอนเฉยๆ ที่บ้าน โปรดติดต่อเรา.</span> </p>
 							<div class="shop-detail_button clearfix"> </div>
 						</div>
 					</div>

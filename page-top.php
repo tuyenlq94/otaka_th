@@ -60,21 +60,21 @@
 				<div class="products_area_content_wrap products_area_top_content_wrap">
 					<a href="/gold/">
 						<div class="products_area_top_content_img_wrap">
-							<img src="images/index/products_img1@2x.webp" alt="รับซื้อทองคำแท่งและทองคำรูปพรรณ">
+							<img src="images/index/products_img1@2x.webp" alt="รับซื้อทอง / ทองคำแท่ง">
 						</div>
-						<p class="products_area_text">รับซื้อทองคำแท่งและทองคำรูปพรรณ</p>
+						<p class="products_area_text">รับซื้อทอง / ทองคำแท่ง</p>
 					</a>
 					<a href="/jewelry/">
 						<div class="products_area_top_content_img_wrap">
-							<img src="images/index/products_img3@2x.webp" alt="รับซื้อเพชรและอัญมณี">
+							<img src="images/index/products_img3@2x.webp" alt="รับซื้อเพชร / เครื่องประดับ">
 						</div>
-						<p class="products_area_text">รับซื้อเพชรและอัญมณี</p>
+						<p class="products_area_text">รับซื้อเพชร / เครื่องประดับ</p>
 					</a>
 					<a href="/brand/">
 						<div class="products_area_top_content_img_wrap">
-							<img src="images/index/products_img4@2x.webp" alt="รับซื้อกระเป๋าและสินค้าแบรนด์เนม">
+							<img src="images/index/products_img4@2x.webp" alt="รับซื้อกระเป๋า / สินค้าแบรนด์">
 						</div>
-						<p class="products_area_text">รับซื้อกระเป๋าและสินค้าแบรนด์เนม</p>
+						<p class="products_area_text">รับซื้อกระเป๋า / สินค้าแบรนด์</p>
 					</a>
 					<a href="/watch/">
 						<div class="products_area_top_content_img_wrap">
@@ -100,9 +100,9 @@
 				<div class="products_area_content_wrap products_area_bottom_content_wrap">
 					<a href="/brand-tokei/rolex/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img1@4x.webp" alt="ซื้อโรเล็กซ์">
+							<img src="images/index/handling_brand_img1@4x.webp" alt="รับซื้อโรเล็กซ์">
 						</div>
-						<p class="products_area_text">ซื้อโรเล็กซ์</p>
+						<p class="products_area_text">รับซื้อโรเล็กซ์</p>
 					</a>
 					<a href="/brand-tokei/patekphilippe/">
 						<div class="products_area_img_wrap">
@@ -112,81 +112,81 @@
 					</a>
 					<a href="/brand-tokei/audemarspiguet/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img3@4x.webp" alt="ซื้อโอเดอมาร์ ปิเกต์">
+							<img src="images/index/handling_brand_img3@4x.webp" alt="รับซื้อออดีมาร์ส พิกูเอต">
 						</div>
-						<p class="products_area_text">ซื้อโอเดอมาร์ ปิเกต์</p>
+						<p class="products_area_text">รับซื้อออดีมาร์ส พิกูเอต</p>
 					</a>
 					<a href="/brand-tokei/vacheronconstantin/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img4@4x.webp" alt="ซื้อ วาเชอรอน คอนสแตนติน">
+							<img src="images/index/handling_brand_img4@4x.webp" alt="รับซื้อวาเชอรอน คอนสตานติน">
 						</div>
-						<p class="products_area_text">ซื้อ วาเชอรอน คอนสแตนติน</p>
+						<p class="products_area_text">รับซื้อวาเชอรอน คอนสตานติน</p>
 					</a>
 					<a href="/brand-tokei/lange-soehne/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img5@4x.webp" alt="การซื้อ Lange & Söhne">
+							<img src="images/index/handling_brand_img5@4x.webp" alt="รับซื้อเอ. แลง และ โซห์เน">
 						</div>
-						<p class="products_area_text">การซื้อ Lange & Söhne</p>
+						<p class="products_area_text">รับซื้อเอ. แลง และ โซห์เน</p>
 					</a>
 					<a href="/brand-tokei/omega/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img6@4x.webp" alt="รับซื้อโอเมก้า">
+							<img src="images/index/handling_brand_img6@4x.webp" alt="รับซื้อโอมิก้า">
 						</div>
-						<p class="products_area_text">รับซื้อโอเมก้า</p>
+						<p class="products_area_text">รับซื้อโอมิก้า</p>
 					</a>
 					<a href="/brand-tokei/iwc/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img7@4x.webp" alt="การจัดซื้อไอดับเบิลยูซี">
+							<img src="images/index/handling_brand_img7@4x.webp" alt="รับซื้อไอ. ดับบลิว. ซี">
 						</div>
-						<p class="products_area_text">การจัดซื้อไอดับเบิลยูซี</p>
+						<p class="products_area_text">รับซื้อไอ. ดับบลิว. ซี</p>
 					</a>
 					<a href="/brand/cartier/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img8@4x.webp" alt="คาร์เทียร์ซื้อ">
+							<img src="images/index/handling_brand_img8@4x.webp" alt="รับซื้อคาร์เทียร์">
 						</div>
-						<p class="products_area_text">คาร์เทียร์ซื้อ</p>
+						<p class="products_area_text">รับซื้อคาร์เทียร์</p>
 					</a>
 					<a href="/brand/louis-vuitton/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img9@4x.webp" alt=" รับซื้อ Louis Vuitton">
+							<img src="images/index/handling_brand_img9@4x.webp" alt=" รับซื้อหลุยส์ วิตตอง">
 						</div>
-						<p class="products_area_text"> รับซื้อ Louis Vuitton</p>
+						<p class="products_area_text"> รับซื้อหลุยส์ วิตตอง</p>
 					</a>
 					<a href="/brand/hermes/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img10@4x.webp" alt="รับซื้อ Hermès">
+							<img src="images/index/handling_brand_img10@4x.webp" alt="รับซื้อเฮอร์เมส">
 						</div>
-						<p class="products_area_text">รับซื้อ Hermès</p>
+						<p class="products_area_text">รับซื้อเฮอร์เมส</p>
 					</a>
 					<a href="/brand/chanel/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img11@4x.webp" alt="รับซื้อ Chanel">
+							<img src="images/index/handling_brand_img11@4x.webp" alt="รับซื้อชาเนล">
 						</div>
-						<p class="products_area_text">รับซื้อ Chanel</p>
+						<p class="products_area_text">รับซื้อชาเนล</p>
 					</a>
 					<a href="/brand/dior/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img12@4x.webp" alt="Christian Dior Purchase">
+							<img src="images/index/handling_brand_img12@4x.webp" alt="รับซื้อคริสเตียน ดิออร์">
 						</div>
-						<p class="products_area_text">Christian Dior Purchase</p>
+						<p class="products_area_text">รับซื้อคริสเตียน ดิออร์</p>
 					</a>
 					<a href="/brand/celine/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img13@4x.webp" alt="Celine Purchase">
+							<img src="images/index/handling_brand_img13@4x.webp" alt="รับซื้อเซลีน">
 						</div>
-						<p class="products_area_text">Celine Purchase</p>
+						<p class="products_area_text">รับซื้อเซลีน</p>
 					</a>
 					<a href="/brand/fendi/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img14@4x.webp" alt="Fendi Purchase">
+							<img src="images/index/handling_brand_img14@4x.webp" alt="รับซื้อเฟนดิ">
 						</div>
-						<p class="products_area_text">Fendi Purchase</p>
+						<p class="products_area_text">รับซื้อเฟนดิ</p>
 					</a>
 					<a href="/brand/gucci/">
 						<div class="products_area_img_wrap">
-							<img src="images/index/handling_brand_img15@4x.webp" alt="รับซื้อ Gucci">
+							<img src="images/index/handling_brand_img15@4x.webp" alt="รับซื้อกุชชี่">
 						</div>
-						<p class="products_area_text">รับซื้อ Gucci</p>
+						<p class="products_area_text">รับซื้อกุชชี่</p>
 					</a>
 				</div>
 			</section>
