@@ -60,10 +60,10 @@
 									<p class="content__image img"><img width="150" height="150"
 											src="../images/gold/0050d5d868704bb985f7893556db0261-150x150.webp"
 											class="attachment-thumbnail size-thumbnail"
-											alt="祖母が使っていた  อุปกรณ์เสริมทองคำ類" decoding="async" loading="lazy"
+											alt="gold accessories" decoding="async" loading="lazy"
 											sizes="100vw"></p>
 									<p></p>
-									<p class="content--name">อุปกรณ์เสริมทองคำ</p>
+									<p class="content--name">gold accessories</p>
 								</div>
 							</a>
 							<div class="content__text">
